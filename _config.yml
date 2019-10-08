@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Shu Yao's Homepage"
+title: "Yao's Homepage"
 masthead_title: "Shu Yao's Homepage"
 email: "shuyao95@gmail.com"
 description: "Learn more and gain more fun"
