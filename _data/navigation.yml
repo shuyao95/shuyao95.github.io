@@ -1,5 +1,7 @@
 main:
+  - title: "Publications"
+    url: /Publications/
   - title: "Blogs"
     url: /Blogs/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Activities"
+    url: /Activities/

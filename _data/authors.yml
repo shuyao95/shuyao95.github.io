@@ -1,0 +1,9 @@
+shuyao:
+  name     : "Yao Shu"
+  avatar   : "/assets/imgs/logo.jpg"
+  bio      : "Stay hungry, stay foolish"
+  email    : "shuyao@comp.nus.edu.sg"
+  location : "NUS, Singapore" 
+  links:
+    - label : "GitHub"
+      icon  : "fab fa-fw fa-github"

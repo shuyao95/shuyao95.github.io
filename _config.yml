@@ -20,24 +20,16 @@
 
 title: "Yao's Homepage"
 masthead_title: "Yao's Homepage"
-email: "shuyao95@gmail.com"
 description: "Learn more and gain more fun"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  "shuyao95"
-logo: "assets/images/logo.jpg"
+# logo: "assets/images/logo.jpg"
 
 
 # Auther settings
-author:
-  name     : "Shu Yao"
-  avatar   : "/assets/images/logo.jpg"
-  bio      : "Learn more and gain more fun"
-  location : "NUS, Singapore" 
-  links:
-    - label : "GitHub"
-      icon  : "fab fa-fw fa-github"
+author: shuyao
 
 
 # Posts settings
@@ -54,7 +46,7 @@ defaults:
 
 words_per_minute: 250
 search: true # To enable site-wide search  
-paginate: 5
+# paginate: 5
 
 
 # Markdown Setting
@@ -84,6 +76,7 @@ include:
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.17.0"
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Plugins (previously gems:)
 plugins:
