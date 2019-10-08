@@ -33,7 +33,7 @@ github_username:  jekyll
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.17.0"
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-include-cache
 
 # Exclude from processing.
