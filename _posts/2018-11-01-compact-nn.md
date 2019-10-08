@@ -3,6 +3,8 @@ layout: single
 title:  "Compact Neural Networks"
 date:   2018-11-01 10:29:48 +0800
 categories: Architecture
+toc: true
+toc_sticky: true
 ---
 
 This section is a summary about the research of compact neural networks. We will focus on:
