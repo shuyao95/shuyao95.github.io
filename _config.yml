@@ -75,6 +75,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.17.0"
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
