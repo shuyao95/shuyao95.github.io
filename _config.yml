@@ -80,6 +80,7 @@ kramdown:
 include:
   - .htaccess
   - _pages
+  - _layout
 
 
 # Build settings
