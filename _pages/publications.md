@@ -13,4 +13,4 @@ comments: false
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
-- **Shu, Y.**, Wang, W., and Cai, S. Understanding architectures learnt by cell-based neural architecture search. In International Conference on Learning Representations, 2020. URL https://openreview.net/forum?id=BJxH22EKPS.
+- **Shu, Y.**, Wang, W., and Cai, S. Understanding architectures learnt by cell-based neural architecture search. In International Conference on Learning Representations, 2020. URL [https://openreview.net/forum?id=BJxH22EKPS](https://openreview.net/forum?id=BJxH22EKPS).
