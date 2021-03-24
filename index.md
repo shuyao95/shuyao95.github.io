@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-<h2 class="archive__title">{{ "Recent News" }}</h2>
+<h2 class="archive__title">{{ "What's New" }}</h2>
 
 - 2nd prize of the KDD Cup 2019 AutoML Challenge. [Here](https://github.com/shuyao95/kddcup2019-automl.git) is our solution.
 - Accepted paper in ICLR 2020: Understanding Architectures Learnt by Cell-based Neural Architecture Search
@@ -19,4 +19,6 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Awards" }}</h2>
 
-- 2nd prize of the 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft. ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019).
+- 2nd prize of the 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019).
+- Honor of Outstanding Student, 2015
+- 2nd prize for The Chinese Mathematics Competitions (Non-professional), 2013

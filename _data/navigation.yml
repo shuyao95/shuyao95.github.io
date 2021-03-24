@@ -1,7 +1,7 @@
 main:
-  - title: "Publications"
-    url: /Publications/
-  - title: "Blogs"
-    url: /Blogs/
-  - title: "Activities"
-    url: /Activities/
+  # - title: "Publications"
+  #   url: /Publications/
+  # - title: "Blogs"
+  #   url: /Blogs/
+  # - title: "Activities"
+  #   url: /Activities/
