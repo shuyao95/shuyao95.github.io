@@ -10,18 +10,16 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Publications" }}</h2>
 
-1. Dynamic Routing Networks  
+- Dynamic Routing Networks  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision*, 2021  
-2. Understanding architectures learnt by cell-based neural architecture search  
+- Understanding architectures learnt by cell-based neural architecture search  
     **Yao Shu**, Wei Wang, Shaofeng Cai  
     In *International Conference on Learning Representations*, 2020.  
-    Acceptance rate: 26.5%. [[Code](https://github.com/shuyao95/Understanding-NAS.git), [pdf](https://openreview.net/pdf?id=BJxH22EKPS)]  
+    Acceptance rate: 26.5%. [[code](https://github.com/shuyao95/Understanding-NAS.git), [pdf](https://openreview.net/pdf?id=BJxH22EKPS)]  
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
-- **Shu, Y.**, Wang, W., & Cai, S. (2019). Understanding Architectures Learnt by Cell-based Neural Architecture Search. arXiv preprint arXiv:1909.09569.
-- Cai, S., **Shu, Y.**, Wang, W., & Ooi, B. C. (2019). ISBNet: Instance-aware Selective Branching Network. arXiv preprint arXiv:1905.04849.
 
 <h2 class="archive__title">{{ "Awards" }}</h2>
 
