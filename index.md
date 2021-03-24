@@ -18,6 +18,15 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
+- Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization  
+    Min Zhang, Yao Shu, Kun He  
+    arXiv preprint arXiv:2010.08766, 2020
+- Effective and efficient dropout for deep convolutional neural networks  
+    Shaofeng Cai, Yao Shu, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
+    arXiv preprint arXiv:1904.03392, 2019  
+- Efficient memory management for gpu-based deep learning systems  
+    Junzhe Zhang, Sai Ho Yeung, Yao Shu, Bingsheng He, Wei Wang  
+    arXiv preprint arXiv:1903.06631, 2019  
 
 <h2 class="archive__title">{{ "Awards" }}</h2> 
 
