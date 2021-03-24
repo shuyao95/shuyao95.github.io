@@ -6,7 +6,7 @@ author_profile: true
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
 
-<h2 class="archive__title">{{ "Publications" }}</h2>
+<h2 class="archive__title">{{ "Publications" }}</h2> <a style="text-decoration:none;" href="https://scholar.google.com/citations?user=qb9STggAAAAJ&hl=en"> <img src="assets/images/scholar.png" width="25"/> </a>
 
 - Dynamic Routing Networks  
     Shaofeng Cai, <ins>Yao Shu</ins>, Wei Wang  
@@ -19,7 +19,7 @@ author_profile: true
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
 
-<h2 class="archive__title">{{ "Awards" }}</h2>
+<h2 class="archive__title">{{ "Awards" }}</h2> 
 
 - 2nd prize of 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019))
 - Honor of Outstanding Student, 2015
