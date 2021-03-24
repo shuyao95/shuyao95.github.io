@@ -6,7 +6,7 @@ author_profile: true
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
 
-<h2 class="archive__title">{{ "Publications" }}</h2> <a style="text-decoration:none;" href="https://scholar.google.com/citations?user=qb9STggAAAAJ&hl=en"> <img src="assets/images/scholar.png" width="25"/> </a>
+<h2 class="archive__title">{{ "Publications" }}</h2>
 
 - Dynamic Routing Networks  
     Shaofeng Cai, <ins>Yao Shu</ins>, Wei Wang  

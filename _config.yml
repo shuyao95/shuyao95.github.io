@@ -22,7 +22,7 @@ title: "Yao's Homepage"
 masthead_title: "Yao's Homepage"
 description: "Learn more and gain more fun"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://shuyao.ai.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  "shuyao95"
 logo: "assets/images/soul.jpg"

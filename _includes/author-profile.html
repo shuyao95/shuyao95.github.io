@@ -257,6 +257,14 @@
         </li>
       {% endif %}
 
+      {% if author.scholar %}
+        <li>
+          <a href="https://scholar.google.com/citations?user={{ author.scholar }}&hl=en" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-google" aria-hidden="true"></i> Vine
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
