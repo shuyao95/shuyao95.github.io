@@ -70,7 +70,7 @@ kramdown:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  # - _pages
   - _layout
 
 
