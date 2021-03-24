@@ -15,9 +15,9 @@
 
 
 /* system typefaces */
-$serif: "URW Palladio L", Optima, Georgia, Times, serif !default;
-$sans-serif: "URW Palladio L", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", Arial, sans-serif !default;
+// $serif: "URW Palladio L", Optima, Georgia, Times, serif !default;
+$serif: Optima, Georgia, Times, serif !default;
+$sans-serif: "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
