@@ -9,6 +9,16 @@
 }
 
 @font-face {
+    font-family: "Libertine R";
+    src: url("/assets/font/LinLibertine_R.ttf");
+}
+
+@font-face {
+    font-family: "Libertine RB";
+    src: url("/assets/font/LinLibertine_RB.ttf");
+}
+
+@font-face {
     font-family: Monaco;
     src: url("/assets/font/monaco.ttf");
 }
@@ -16,8 +26,8 @@
 
 /* system typefaces */
 // $serif: "URW Palladio L", Optima, Georgia, Times, serif !default;
-$serif: Optima, Georgia, Times, serif !default;
-$sans-serif: "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$serif: "Libertine RB", Optima, Georgia, Times, serif !default;
+$sans-serif: "Libertine RB", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
