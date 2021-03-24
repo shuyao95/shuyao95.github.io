@@ -4,18 +4,13 @@
 
 @charset "utf-8";
 @font-face {
-    font-family: "URW Palladio L";
-    src: url("/assets/font/urw-palladio-l-roman.ttf");
+    font-family: "PT Sans";
+    src: url("/assets/font/PTSans-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Libertine R";
-    src: url("/assets/font/LinLibertine_R.ttf");
-}
-
-@font-face {
-    font-family: "Libertine RB";
-    src: url("/assets/font/LinLibertine_RB.ttf");
+    font-family: "Google Sans";
+    src: url("/assets/font/GoogleSans-Regular.ttf");
 }
 
 @font-face {
@@ -26,8 +21,8 @@
 
 /* system typefaces */
 // $serif: "URW Palladio L", Optima, Georgia, Times, serif !default;
-$serif: "Libertine R", Optima, Georgia, Times, serif !default;
-$sans-serif: "Libertine R", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$serif: "PT Sans", Optima, Georgia, Times, serif !default;
+$sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
