@@ -2,6 +2,7 @@
 layout: home
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
