@@ -10,23 +10,23 @@ author_profile: true
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
 - Dynamic Routing Networks  
-    Shaofeng Cai, <ins>Yao Shu</ins>, Wei Wang  
+    Shaofeng Cai, <ins>Yao Shu*</ins>, Wei Wang  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2021  
 - Understanding architectures learnt by cell-based neural architecture search  
-    <ins>Yao Shu</ins>, Wei Wang, Shaofeng Cai  
+    <ins>Yao Shu*</ins>, Wei Wang, Shaofeng Cai  
     In *International Conference on Learning Representations (ICLR)*, 2020  
     Acceptance rate: 26.5%. [[code](https://github.com/shuyao95/Understanding-NAS.git), [pdf](https://openreview.net/pdf?id=BJxH22EKPS)]  
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
 - Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization  
-    Min Zhang, <ins>Yao Shu</ins>, Kun He  
+    Min Zhang, <ins>Yao Shu*</ins>, Kun He  
     arXiv preprint arXiv:2010.08766, 2020
 - Effective and efficient dropout for deep convolutional neural networks  
-    Shaofeng Cai, <ins>Yao Shu</ins>, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
+    Shaofeng Cai, <ins>Yao Shu*</ins>, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
     arXiv preprint arXiv:1904.03392, 2019  
 - Efficient memory management for gpu-based deep learning systems  
-    Junzhe Zhang, Sai Ho Yeung, <ins>Yao Shu</ins>, Bingsheng He, Wei Wang  
+    Junzhe Zhang, Sai Ho Yeung, <ins>Yao Shu*</ins>, Bingsheng He, Wei Wang  
     arXiv preprint arXiv:1903.06631, 2019  
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
