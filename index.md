@@ -5,7 +5,7 @@ author_profile: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
-- Rebuttal for ICML 2021, good luck to me
+- Preparing for NeurIPS 2021, good luck to me
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
