@@ -12,35 +12,38 @@ author_profile: true
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
 - Neural Ensemble Search via Bayesian Sampling.  
-    <ins>Yao Shu\*</ins>, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
+    **Yao Shu**\*, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 38th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2022  
+    Acceptance rate: 32.3%.  
 - DAVINZ: Data Valuation using Deep Neural Networks at Initialization.  
-    Zhaoxuan Wu, <ins>Yao Shu\*</ins>, Bryan Kian Hsiang Low  
+    Zhaoxuan Wu, **Yao Shu**\*, Bryan Kian Hsiang Low  
     In *The 39th International Conference on Machine Learning (ICML)*, 2022  
+    Acceptance rate: 21.9%.  
 - NASI: Label- and Data-agnostic Neural Architecture Search at Initialization.  
-    <ins>Yao Shu\*</ins>, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low  
+    **Yao Shu**\*, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low  
     In *The 10th International Conference on Learning Representations (ICLR)*, 2022  
+    Acceptance rate: 32.3%.  
 - Dynamic Routing Networks.  
-    Shaofeng Cai, <ins>Yao Shu\*</ins>, Wei Wang  
+    Shaofeng Cai, **Yao Shu**\*, Wei Wang  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2021  
 - Understanding Architectures Learnt by Cell-based Neural Architecture Search.  
-    <ins>Yao Shu\*</ins>, Wei Wang, Shaofeng Cai  
+    **Yao Shu**\*, Wei Wang, Shaofeng Cai  
     In *The 8th International Conference on Learning Representations (ICLR)*, 2020  
     Acceptance rate: 26.5%. [[code](https://github.com/shuyao95/Understanding-NAS.git), [pdf](https://openreview.net/pdf?id=BJxH22EKPS)]  
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
 - Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.  
-    <ins>Yao Shu\*</ins>, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
+    **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     arXiv preprint arXiv:2201.09785, 2022  
 - Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.  
-    Min Zhang, <ins>Yao Shu\*</ins>, Kun He  
+    Min Zhang, **Yao Shu**\*, Kun He  
     arXiv preprint arXiv:2010.08766, 2020
-- Effective and efficient dropout for deep convolutional neural networks.  
-    Shaofeng Cai, <ins>Yao Shu\*</ins>, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
+- Effective and Efficient Dropout for Deep Convolutional Neural Networks.  
+    Shaofeng Cai, **Yao Shu**\*, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
     arXiv preprint arXiv:1904.03392, 2019  
-- Efficient memory management for gpu-based deep learning systems.  
-    Junzhe Zhang, Sai Ho Yeung, <ins>Yao Shu\*</ins>, Bingsheng He, Wei Wang  
+- Efficient Memory Management for Gpu-based Deep Learning Systems.  
+    Junzhe Zhang, Sai Ho Yeung, **Yao Shu**\*, Bingsheng He, Wei Wang  
     arXiv preprint arXiv:1903.06631, 2019  
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
