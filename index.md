@@ -33,16 +33,16 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
-- Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.  
+- <span style="color:blue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     arXiv preprint arXiv:2201.09785, 2022  
-- Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.  
+- <span style="color:blue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**\*, Kun He  
     arXiv preprint arXiv:2010.08766, 2020
-- Effective and Efficient Dropout for Deep Convolutional Neural Networks.  
+- <span style="color:blue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
     Shaofeng Cai, **Yao Shu**\*, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
     arXiv preprint arXiv:1904.03392, 2019  
-- Efficient Memory Management for Gpu-based Deep Learning Systems.  
+- <span style="color:blue">Efficient Memory Management for Gpu-based Deep Learning Systems.</span>  
     Junzhe Zhang, Sai Ho Yeung, **Yao Shu**\*, Bingsheng He, Wei Wang  
     arXiv preprint arXiv:1903.06631, 2019  
 
