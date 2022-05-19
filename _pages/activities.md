@@ -12,4 +12,8 @@ comments: false
 
 <h2 class="archive__title">{{ "Papers" }}</h2>
 
-- Accepted paper in ICLR 2020: Understanding Architectures Learnt by Cell-based Neural Architecture Search
+- Accepted paper in UAI 2022: Neural Ensemble Search via Bayesian Sampling.
+- Accepted paper in ICML 2022: DAVINZ: Data Valuation using Deep
+Neural Networks at Initialization.
+- Accepted paper in ICLR 2022: NASI: Label-and Data-agnostic Neural Architecture Search at Initialization.
+- Accepted paper in ICLR 2020: Understanding Architectures Learnt by Cell-based Neural Architecture Search.
