@@ -11,38 +11,38 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
-- <span style="color: deepskyblue">Neural Ensemble Search via Bayesian Sampling.</span>  
+- <span style="color: dodgerblue">Neural Ensemble Search via Bayesian Sampling.</span>  
     **Yao Shu**\*, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**)*, 2022  
     Acceptance rate: 32.3%.  
-- <span style="color: deepskyblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
+- <span style="color: dodgerblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
     Zhaoxuan Wu, **Yao Shu**\*, Bryan Kian Hsiang Low  
     In *The 39th International Conference on Machine Learning (**ICML**)*, 2022  
     Acceptance rate: 21.9%.  
-- <span style="color: deepskyblue">NASI: Label- and Data-agnostic Neural Architecture Search at Initialization.</span>  
+- <span style="color: dodgerblue">NASI: Label- and Data-agnostic Neural Architecture Search at Initialization.</span>  
     **Yao Shu**\*, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low  
     In *The 10th International Conference on Learning Representations (**ICLR**)*, 2022  
     Acceptance rate: 32.3%. [[pdf](https://openreview.net/pdf?id=v-v1cpNNK_v)]  
-- <span style="color: deepskyblue">Dynamic Routing Networks.</span>  
+- <span style="color: dodgerblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**\*, Wei Wang  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, 2021  
-- <span style="color: deepskyblue">Understanding Architectures Learnt by Cell-based Neural Architecture Search.</span>  
+- <span style="color: dodgerblue">Understanding Architectures Learnt by Cell-based Neural Architecture Search.</span>  
     **Yao Shu**\*, Wei Wang, Shaofeng Cai  
     In *The 8th International Conference on Learning Representations (**ICLR**)*, 2020  
     Acceptance rate: 26.5%. [[code](https://github.com/shuyao95/Understanding-NAS.git), [pdf](https://openreview.net/pdf?id=BJxH22EKPS)]  
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
-- <span style="color: deepskyblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
+- <span style="color: dodgerblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     arXiv preprint arXiv:2201.09785, 2022  
-- <span style="color: deepskyblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
+- <span style="color: dodgerblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**\*, Kun He  
     arXiv preprint arXiv:2010.08766, 2020
-- <span style="color: deepskyblue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
+- <span style="color: dodgerblue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
     Shaofeng Cai, **Yao Shu**\*, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
     arXiv preprint arXiv:1904.03392, 2019  
-- <span style="color: deepskyblue">Efficient Memory Management for Gpu-based Deep Learning Systems.</span>  
+- <span style="color: dodgerblue">Efficient Memory Management for Gpu-based Deep Learning Systems.</span>  
     Junzhe Zhang, Sai Ho Yeung, **Yao Shu**\*, Bingsheng He, Wei Wang  
     arXiv preprint arXiv:1903.06631, 2019  
 
