@@ -15,7 +15,12 @@
 
 @font-face {
     font-family: "HarmonyOS Sans";
-    src: url("/assets/font/HarmonyOS_Sans-Medium.ttf");
+    src: url("/assets/font/HarmonyOS_Sans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "SabonNextLT";
+    src: url("/assets/font/SabonNextLT.ttf");
 }
 
 @font-face {
@@ -26,9 +31,9 @@
 
 /* system typefaces */
 // $serif: "PT Sans", Optima, Georgia, Times, serif !default;
-$serif: "HarmonyOS Sans", Optima, Georgia, Times, serif !default;
+$serif: "SabonNextLT", "HarmonyOS Sans", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$sans-serif: "HarmonyOS Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$sans-serif: "SabonNextLT", "HarmonyOS Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
