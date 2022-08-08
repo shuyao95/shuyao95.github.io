@@ -14,11 +14,11 @@ author_profile: true
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
     **Yao Shu**\*, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**)*, 2022  
-    Acceptance rate: 32.3%.  
+    Acceptance rate: 32.3%. [[pdf](https://openreview.net/pdf?id=Bh4lBPUjqg9)]  
 - <span style="color: royalblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
     Zhaoxuan Wu, **Yao Shu**\*, Bryan Kian Hsiang Low  
     In *The 39th International Conference on Machine Learning (**ICML**)*, 2022  
-    Acceptance rate: 21.9%.  
+    Acceptance rate: 21.9%. [[pdf](https://proceedings.mlr.press/v162/wu22j/wu22j.pdf)] 
 - <span style="color: royalblue">NASI: Label- and Data-agnostic Neural Architecture Search at Initialization.</span>  
     **Yao Shu**\*, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low  
     In *The 10th International Conference on Learning Representations (**ICLR**)*, 2022  
