@@ -33,21 +33,25 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
+- <span style="color: royalblue">Federated Neural Bandit.</span>  
+    Zhongxiang Dai, **Yao Shu**\*, Arun Verma, Flint Xiaofeng Fan, Kian Hsiang Low and Patrick Jaillet.  
+    arXiv preprint [arXiv:2205.14309](https://arxiv.org/abs/2205.14309), 2022  
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
-    arXiv preprint arXiv:2201.09785, 2022  
+    arXiv preprint [arXiv:2201.09785](https://arxiv.org/abs/2201.09785), 2022  
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**\*, Kun He  
-    arXiv preprint arXiv:2010.08766, 2020
+    arXiv preprint [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
 - <span style="color: royalblue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
     Shaofeng Cai, **Yao Shu**\*, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
-    arXiv preprint arXiv:1904.03392, 2019  
+    arXiv preprint [arXiv:1904.03392](https://arxiv.org/abs/1904.03392), 2019  
 - <span style="color: royalblue">Efficient Memory Management for GPU-based Deep Learning Systems.</span>  
     Junzhe Zhang, Sai Ho Yeung, **Yao Shu**\*, Bingsheng He, Wei Wang  
-    arXiv preprint arXiv:1903.06631, 2019  
+    arXiv preprint [arXiv:1903.06631](https://arxiv.org/abs/1903.06631), 2019  
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
 
+- Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022
 - 2nd prize of 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019))
 - Honor of Outstanding Student, 2015
 - 2nd prize for The Chinese Mathematics Competitions (Non-professional), 2013
@@ -59,4 +63,4 @@ author_profile: true
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Spring 2019)
 
 <h2 class="archive__title">{{ "Professional Services" }}</h2>
-- Invited to serve as a reviewer for ICML & NeurIPS, 2022
+- Invited to serve as a reviewer for ICML, NeurIPS, ACML, 2022
