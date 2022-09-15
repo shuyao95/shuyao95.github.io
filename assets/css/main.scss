@@ -21,10 +21,10 @@
 
 /* system typefaces */
 // $serif: "PT Sans", Optima, Georgia, Times, serif !default;
-$serif: "SF Pro", Optima, Georgia, Times, serif !default;
+$serif: "SF Pro", "Google Sans", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$sans-serif: "SF Pro", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$monospace: "SF Pro", Consolas, "Lucida Console", monospace !default;
+$sans-serif: "SF Pro", "Google Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$monospace: "SF Pro", "Google Sans", Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
@@ -73,14 +73,14 @@ $type-size-8: 0.625em !default; // ~10px
 // }
 
 html {
-    font-size: 14px; // originally 16px
+    font-size: 13px; // originally 16px
 
     @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
+        font-size: 13px; // originally 18px
     }
 
     @include breakpoint($large) {
-        font-size: 16px; // originally 20px
+        font-size: 15px; // originally 20px
     }
 
     @include breakpoint($x-large) {
