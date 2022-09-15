@@ -19,7 +19,7 @@
 $serif: "Helvetica", "Google Sans", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $sans-serif: "Helvetica", "Google Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$monospace: "Helvetica", "Google Sans", Consolas, "Lucida Console", monospace !default;
+$monospace: Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
