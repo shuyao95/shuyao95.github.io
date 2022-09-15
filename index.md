@@ -5,12 +5,21 @@ author_profile: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
+- Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" is accepted to NeurIPS 2022!
 - May 2022: Our papers on "Neural Ensemble Search" is accepted to UAI 2022!
 - May 2022: Our papers on "Data Valuation" is accepted to ICML 2022!
 - Jan 2022: Our papers on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 
+- <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
+    **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
+    In *The 36th Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022  
+    Acceptance rate: 25.6%.  
+- <span style="color: royalblue">Sample-Then-Optimize Batch Neural Thompson Sampling.</span>  
+    Zhongxiang Dai, **Yao Shu**\*, Bryan Kian Hsiang Low, Patrick Jaillet  
+    In *The 36th Conference on Neural Information Processing Systems (**NeurIPS**)*, 2022  
+    Acceptance rate: 25.6%.  
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
     **Yao Shu**\*, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**)*, 2022  
@@ -64,3 +73,11 @@ author_profile: true
 
 <h2 class="archive__title">{{ "Professional Services" }}</h2>
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, 2022
+
+
+<h2 class="archive__title">{{ "Main Collaborators" }}</h2>
+- [Arun Verma](https://arunv3rma.github.io), Research Fellow, School of Computing, NUS
+- [Cai Shaofeng](https://solopku.github.io), Research Fellow, School of Computing, NUS
+- [Dai Zhongxiang](https://daizhongxiang.github.io), Research Fellow, School of Computing, NUS
+- [Flint Xiaofeng Fan](https://flint-xf-fan.github.io), PhD, School of Computing, NUS
+- [Wu Zhaoxuan](https://zhaoxuanwu.github.io), PhD, Institute of Data Science, NUS
