@@ -9,22 +9,17 @@
 }
 
 @font-face {
-    font-family: "HarmonyOS Sans";
-    src: url("/assets/font/HarmonyOS_Sans-Regular.ttf");
-}
-
-@font-face {
-    font-family: "SF-Pro";
-    src: url("/assets/font/HarmonyOS_Sans-Regular.ttf");
+    font-family: "HarmonyOS";
+    src: url("/assets/font/HarmonyOS_Sans.ttf");
 }
 
 
 /* system typefaces */
 // $serif: "PT Sans", Optima, Georgia, Times, serif !default;
-$serif: "SF-Pro", "Google Sans", Optima, Georgia, Times, serif !default;
+$serif: "HarmonyOS", "Google Sans", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$sans-serif: "SF-Pro", "Google Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$monospace: Consolas, "Lucida Console", monospace !default;
+$sans-serif: "HarmonyOS", "Google Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$monospace: "Lucida Console", Consolas, monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
