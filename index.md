@@ -5,7 +5,7 @@ author_profile: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
-- Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" is accepted to NeurIPS 2022!
+- Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
 - May 2022: Our papers on "Neural Ensemble Search" is accepted to UAI 2022!
 - May 2022: Our papers on "Data Valuation" is accepted to ICML 2022!
 - Jan 2022: Our papers on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
