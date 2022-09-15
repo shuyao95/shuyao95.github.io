@@ -18,7 +18,7 @@ author_profile: true
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6%.  
 - <span style="color: royalblue">Sample-Then-Optimize Batch Neural Thompson Sampling.</span>  
-    Zhongxiang Dai, **Yao Shu**#, Bryan Kian Hsiang Low, Patrick Jaillet  
+    Zhongxiang Dai, **Yao Shu** #, Bryan Kian Hsiang Low, Patrick Jaillet  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6%.  
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
