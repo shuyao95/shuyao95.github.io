@@ -6,18 +6,19 @@ author_profile: true
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
 - Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
-- May 2022: Our papers on "Neural Ensemble Search" is accepted to UAI 2022!
-- May 2022: Our papers on "Data Valuation" is accepted to ICML 2022!
-- Jan 2022: Our papers on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
+- May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
+- May 2022: Our paper on "Data Valuation" is accepted to ICML 2022!
+- Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
+# denotes corresponding author, * denotes equal contribution. 
 
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6%.  
 - <span style="color: royalblue">Sample-Then-Optimize Batch Neural Thompson Sampling.</span>  
-    Zhongxiang Dai, **Yao Shu**, Bryan Kian Hsiang Low, Patrick Jaillet  
+    Zhongxiang Dai, **Yao Shu**#, Bryan Kian Hsiang Low, Patrick Jaillet  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6%.  
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
