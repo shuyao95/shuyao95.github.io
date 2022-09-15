@@ -79,5 +79,5 @@ author_profile: true
 - [Arun Verma](https://arunv3rma.github.io), Research Fellow, School of Computing, NUS
 - [Cai Shaofeng](https://solopku.github.io), Research Fellow, School of Computing, NUS
 - [Dai Zhongxiang](https://daizhongxiang.github.io), Research Fellow, School of Computing, NUS
-- [Flint Xiaofeng Fan](https://flint-xf-fan.github.io), PhD, School of Computing, NUS
-- [Wu Zhaoxuan](https://zhaoxuanwu.github.io), PhD, Institute of Data Science, NUS
+- [Flint Xiaofeng Fan](https://flint-xf-fan.github.io), Ph.D., School of Computing, NUS
+- [Wu Zhaoxuan](https://zhaoxuanwu.github.io), Ph.D., Institute of Data Science, NUS
