@@ -11,7 +11,7 @@ author_profile: true
 - Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
-# denotes corresponding author, * denotes equal contribution. 
+\# denotes corresponding author, * denotes equal contribution. 
 
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
