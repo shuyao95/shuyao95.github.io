@@ -4,11 +4,6 @@
 
 @charset "utf-8";
 @font-face {
-    font-family: "PT Sans";
-    src: url("/assets/font/PTSans-Regular.ttf");
-}
-
-@font-face {
     font-family: "Google Sans";
     src: url("/assets/font/GoogleSans-Regular.ttf");
 }
@@ -31,10 +26,10 @@
 
 /* system typefaces */
 // $serif: "PT Sans", Optima, Georgia, Times, serif !default;
-$serif: "HarmonyOS Sans", Optima, Georgia, Times, serif !default;
+$serif: "SabonNextLT", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$sans-serif: "HarmonyOS Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$sans-serif: "SabonNextLT", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$monospace: "SabonNextLT", Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
