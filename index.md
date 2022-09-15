@@ -45,9 +45,9 @@ author_profile: true
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
     Zhongxiang Dai, **Yao Shu**\*, Arun Verma, Flint Xiaofeng Fan, Kian Hsiang Low and Patrick Jaillet.  
     arXiv preprint [arXiv:2205.14309](https://arxiv.org/abs/2205.14309), 2022  
-- <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
+<!-- - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**\*, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
-    arXiv preprint [arXiv:2201.09785](https://arxiv.org/abs/2201.09785), 2022  
+    arXiv preprint [arXiv:2201.09785](https://arxiv.org/abs/2201.09785), 2022   -->
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**\*, Kun He  
     arXiv preprint [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
