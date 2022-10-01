@@ -86,7 +86,4 @@ toc: true
 
 
 
-<script src="http://geo2.statistic.ovh/private/js.js?c=6b0232ff600d4f0668cadf8a8e637f10"></script>
-<noscript><!--Important: For optimal functionality of your counter, do not change this code-->
-<a href="http://geo2.countergeo.com/?c=6b0232ff600d4f0668cadf8a8e637f10"><img src="http://geo2.statistic.ovh/private/countergeo.php?c=6b0232ff600d4f0668cadf8a8e637f10"></a>
-</noscript><br>
+<a href="http://www.countergeo.com/"><img src="http://geo2.statistic.ovh/private/countergeo.php?c=6b0232ff600d4f0668cadf8a8e637f10" alt="website hits counter" title="website hits counter" border="0"></a>
