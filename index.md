@@ -74,7 +74,7 @@ toc: true
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Spring 2019)
 
 <h2 class="archive__title">{{ "Professional Services" }}</h2>
-- Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, 2022
+- Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
 
 
 <h2 class="archive__title">{{ "Main Collaborators" }}</h2>
