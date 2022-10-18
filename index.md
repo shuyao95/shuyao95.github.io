@@ -17,11 +17,11 @@ toc: true
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
-    Acceptance rate: 25.6%. [[pdf](https://openreview.net/pdf?id=TC42kAO8XLS)]  
+    Acceptance rate: 25.6%. [[pdf](https://arxiv.org/pdf/2201.09785.pdf)]  
 - <span style="color: royalblue">Sample-Then-Optimize Batch Neural Thompson Sampling.</span>  
     Zhongxiang Dai, **Yao Shu**#, Bryan Kian Hsiang Low, Patrick Jaillet  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
-    Acceptance rate: 25.6%. [[pdf](https://openreview.net/pdf?id=oiztwzmM9l)]  
+    Acceptance rate: 25.6%. [[pdf](https://arxiv.org/pdf/2210.06850.pdf)]  
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
     **Yao Shu**, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022  
