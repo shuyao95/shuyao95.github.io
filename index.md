@@ -11,7 +11,7 @@ toc: true
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
 - Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
-- Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
+- Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
 - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
 - May 2022: Our paper on "Data Valuation" is accepted to ICML 2022!
 - Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022!
