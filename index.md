@@ -6,6 +6,7 @@ toc: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
+- Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
 - Sep 2022: Our papers on "Training-free Neural Architecture Search" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
 - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
 - May 2022: Our paper on "Data Valuation" is accepted to ICML 2022!
@@ -14,6 +15,14 @@ toc: true
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>
 \# denotes corresponding author, * denotes equal contribution. 
 
+- <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
+    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low.  
+    In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
+    Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=38m4h8HcNRL)]  
+- <span style="color: royalblue">Federated Neural Bandit.</span>  
+    Zhongxiang Dai, **Yao Shu**, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet.  
+    In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
+    Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=38m4h8HcNRL)]  
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
@@ -44,9 +53,7 @@ toc: true
 
 <h2 class="archive__title">{{ "Preprints" }}</h2>
 
-- <span style="color: royalblue">Federated Neural Bandit.</span>  
-    Zhongxiang Dai, **Yao Shu**, Arun Verma, Flint Xiaofeng Fan, Kian Hsiang Low and Patrick Jaillet.  
-    arXiv preprint [arXiv:2205.14309](https://arxiv.org/abs/2205.14309), 2022  
+
 <!-- - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     arXiv preprint [arXiv:2201.09785](https://arxiv.org/abs/2201.09785), 2022   -->
@@ -62,7 +69,7 @@ toc: true
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
 
-- Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022
+- Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/))
 - 2nd prize of 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019))
 - Honor of Outstanding Student, 2015
 - 2nd prize for The Chinese Mathematics Competitions (Non-professional), 2013
