@@ -20,7 +20,7 @@ toc: true
 \# denotes corresponding author, * denotes equal contribution. 
 
 - <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
-    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low.  
+    **Yao Shu**, Zhongxiang Dai, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low.  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
     Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=38m4h8HcNRL)]  
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
