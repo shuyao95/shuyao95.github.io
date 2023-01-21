@@ -82,7 +82,7 @@ toc: true
 
 <h2 class="archive__title">{{ "Professional Services" }}</h2>
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
-
+- Invited to serve as a reviewer for ICML, UAI, 2023
 
 <h2 class="archive__title">{{ "Main Collaborators" }}</h2>
 - [Arun Verma](https://arunv3rma.github.io), Research Fellow, School of Computing, NUS
