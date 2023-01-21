@@ -3,22 +3,21 @@
 ---
 
 @charset "utf-8";
-@font-face {
-    font-family: "Google Sans";
-    src: url("/assets/font/GoogleSans-Regular.ttf");
-}
+// @font-face {
+//     font-family: "Google Sans";
+//     src: url("/assets/font/GoogleSans-Regular.ttf");
+// }
 
 @font-face {
     font-family: "HarmonyOS";
     src: url("/assets/font/HarmonyOS_Sans.ttf");
 }
 
-
 /* system typefaces */
 // $serif: "PT Sans", Optima, Georgia, Times, serif !default;
-$serif: "Lato", "HarmonyOS", "Google Sans", Optima, Georgia, Times, serif !default;
+$serif: "Lato", "HarmonyOS", Optima, Georgia, Times, serif !default;
 // $sans-serif: "PT Sans", "Lucida Grande", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
-$sans-serif: "Lato", "HarmonyOS", "Google Sans", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+$sans-serif: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
 $monospace: "Lucida Console", Consolas, monospace !default;
 
 /* sans serif typefaces */
