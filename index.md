@@ -106,7 +106,3 @@ toc: true
 - [Dai Zhongxiang](https://daizhongxiang.github.io), Research Fellow, School of Computing, NUS
 - [Flint Xiaofeng Fan](https://flint-xf-fan.github.io), Ph.D., School of Computing, NUS
 - [Wu Zhaoxuan](https://zhaoxuanwu.github.io), Ph.D., Institute of Data Science, NUS
-
-
-
-<!-- <a href="http://www.countergeo.com/"><img src="http://geo2.statistic.ovh/private/countergeo.php?c=6b0232ff600d4f0668cadf8a8e637f10" alt="website hits counter" title="website hits counter" border="0"></a> -->

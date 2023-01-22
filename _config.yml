@@ -75,8 +75,8 @@ include:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # for github pages
+# theme: minimal-mistakes-jekyll # for local build (test)
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Plugins (previously gems:)
 plugins:
