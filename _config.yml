@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shuyao95.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  "shuyao95"
-logo: "assets/images/soul.jpg"
+logo: "assets/imgs/soul.jpg"
 
 
 # Auther settings
@@ -75,8 +75,8 @@ include:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Plugins (previously gems:)
 plugins:

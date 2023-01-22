@@ -3,10 +3,6 @@
 ---
 
 @charset "utf-8";
-// @font-face {
-//     font-family: "Google Sans";
-//     src: url("/assets/font/GoogleSans-Regular.ttf");
-// }
 
 @font-face {
     font-family: "HarmonyOS";
@@ -89,6 +85,15 @@ html {
 
 a {
     text-decoration: none;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+h4 {
+    font-weight: 100;
 }
 
 
