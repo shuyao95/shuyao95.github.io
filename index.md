@@ -6,6 +6,7 @@ toc: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
+- May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & Valedictorian for the class of NUS School of Computing master and Ph.D. graduates!
 - Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
 - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
 - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
@@ -129,6 +130,8 @@ toc: true
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
 
+- Valedictorian for the class of Master and Ph.D. graduates, School of Computing, NUS, 2023
+- IMDA Excellence in Computing Prize (Best Ph.D. Thesis), School of Computing, NUS, 2023
 - Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/))
 - 2nd prize of 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019))
 - Honor of Outstanding Student, 2015
@@ -142,7 +145,7 @@ toc: true
 
 <h2 class="archive__title">{{ "Professional Services" }}</h2>
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
-- Invited to serve as a reviewer for ICML, UAI, 2023
+- Invited to serve as a reviewer for ICML, UAI, NeurIPS, 2023
 
 <h2 class="archive__title">{{ "Main Collaborators" }}</h2>
 - [Arun Verma](https://arunv3rma.github.io), Research Fellow, School of Computing, NUS
