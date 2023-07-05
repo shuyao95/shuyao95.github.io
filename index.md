@@ -130,7 +130,7 @@ toc: true
 
 <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
 
-- Valedictorian for the class of Master and Ph.D. graduates, School of Computing, NUS, 2023
+- Valedictorian for the class of Ph.D. graduates, School of Computing, NUS, 2023
 - IMDA Excellence in Computing Prize (Best Ph.D. Thesis), School of Computing, NUS, 2023
 - Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/))
 - 2nd prize of 5th AutoML Challenge (AutoML for Temporal Relational Data) in the KDD Cup 2019 provided by 4Paradigm, ChaLearn and Microsoft, June 2019 ([our solution](https://github.com/shuyao95/kddcup2019-automl.git), [the news](https://www.4paradigm.com/competition/kddcup2019))
