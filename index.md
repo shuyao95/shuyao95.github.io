@@ -6,7 +6,7 @@ toc: true
 
 <h2 class="archive__title">{{ "What's New" }}</h2>
 
-- May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing master and Ph.D. graduates!
+- May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
 - Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
 - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
 - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
