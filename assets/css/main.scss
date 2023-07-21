@@ -68,10 +68,10 @@ $type-size-8: 0.625em !default; // ~10px
 // }
 
 html {
-    font-size: 13px; // originally 16px
+    font-size: 14px; // originally 16px
 
     @include breakpoint($medium) {
-        font-size: 13px; // originally 18px
+        font-size: 14px; // originally 18px
     }
 
     @include breakpoint($large) {
@@ -79,7 +79,7 @@ html {
     }
 
     @include breakpoint($x-large) {
-        font-size: 17px; // originally 22px
+        font-size: 16px; // originally 22px
     }
 }
 

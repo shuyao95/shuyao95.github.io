@@ -4,6 +4,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 comments: false
+toc: true
 ---
 
 <h2 class="archive__title">{{ "Accepted Papers" }}</h2>

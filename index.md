@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 classes: landing
 author_profile: true
 toc: true
