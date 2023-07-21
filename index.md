@@ -21,7 +21,7 @@ Currently, my research interests include but are not restricted to the following
 - National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)
     - Ph.D. student in Artiﬁcial Intelligence, School of Computing.
     - Advisor: <a href="https://www.comp.nus.edu.sg/~lowkh/research.html">Bryan Kian Hsiang Low</a>.
-    - Thesis: [Understanding and Improving Neural Architecture Search.](https://www.comp.nus.edu.sg/~lowkh/pubs/phd2022s.pdf)
+    - Thesis: <a href="https://www.comp.nus.edu.sg/~lowkh/pubs/phd2022s.pdf">Understanding and Improving Neural Architecture Search</a>.
 - Huazhong University of Science & Technology (HUST), China (Sep 2013 - June 2017)
     - Bachelor of Computer Science, Honor of Outstanding Student
 
