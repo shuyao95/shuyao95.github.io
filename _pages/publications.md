@@ -8,6 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. ― Richard Feynmann
+
 ## Accepted Papers
 \# denotes corresponding author, * denotes equal contribution. 
 
