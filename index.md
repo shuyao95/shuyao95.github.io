@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to Yao's Homepage"
+title: "WELCOME TO YAO'S HOMEPAGE"
 author_profile: true
 toc: true
 toc_sticky: true
