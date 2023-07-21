@@ -1,51 +1,38 @@
 ---
-layout: single
+layout: home
 author_profile: true
-toc: true
+# toc: true
 ---
 
-<!-- <h2 class="archive__title">{{ "About Me" }}</h2> -->
 ## About Me
-<p>
-I will soon join Tencent AI Lab. I used to be a Research Fellow in the MapleCG group, School of Computing (SoC), National University of Singapore (NUS), advised by Prof. Bryan Low. Before that, I obtained my Ph.D. from National University of Singapore (NUS) under the supervision of Prof. Bryan Low in 2022, and received my B.Sc degree in Department of Computer Science and Technology from Huazhong University of Science & Technology, China in 2017.
-</p>
 
-<!-- <h4 class="archive__subtitle">{{ "Research Topics" }}</h4> -->
+I will soon join Tencent AI Lab. I used to be a Research Fellow in the MapleCG group, School of Computing (SoC), National University of Singapore (NUS), advised by Prof. Bryan Low. Before that, I obtained my Ph.D. from National University of Singapore (NUS) under the supervision of Prof. Bryan Low in 2022, and received my B.Sc degree in Department of Computer Science and Technology from Huazhong University of Science & Technology, China in 2017.
+
+
 #### Research Topics
-<p>
+
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
-<ul>
-  <li>Automated Machine Learning (AutoML), e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.</li>
-  <li>Deep Learning theory, e.g., Neural Tangent Kernel (NTK), Statistical Learning Theory.</li>
-  <li>Optimization algorithms, e.g., Zeroth-Order Optimization (ZOO), Hybrid Optimization, Learn to Optimize (L2O), Bayesian Optimization (BO), Bandit Algorithms.</li>
-  <li>Data-Centric AI, e.g., Data Optimization, Data Valuation, Data Ownership.</li>
-</ul>
-</p>
+  - Automated Machine Learning (AutoML), e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.
+  - Deep Learning theory, e.g., Neural Tangent Kernel (NTK), Statistical Learning Theory.
+  - Optimization algorithms, e.g., Zeroth-Order Optimization (ZOO), Hybrid Optimization, Learn to Optimize (L2O), Bayesian Optimization (BO), Bandit Algorithms.
+  - Data-Centric AI, e.g., Data Optimization, Data Valuation, Data Ownership.
 
 <!-- <h4 class="archive__subtitle">{{ "Education" }}</h4> -->
 #### Education
-<ul>
-  <li>National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)</li>
-  <ul>
-    <li>Ph.D. student in Artiﬁcial Intelligence, School of Computing.</li>
-    <li>Advisor: <a href="https://www.comp.nus.edu.sg/~lowkh/research.html">Bryan Kian Hsiang Low</a>.</li>
-    <li>Thesis: Understanding and Improving Neural Architecture Search. [<a href="https://www.comp.nus.edu.sg/~lowkh/pubs/phd2022s.pdf">pdf</a>]</li>
-  </ul>
-  <li>Huazhong University of Science & Technology (HUST), China (Sep 2013 - June 2017)</li>
-  <ul>
-    <li>Bachelor of Computer Science, Honor of Outstanding Student</li>
-  </ul>
-</ul>
+
+- National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)
+    - Ph.D. student in Artiﬁcial Intelligence, School of Computing.
+    - Advisor: <a href="https://www.comp.nus.edu.sg/~lowkh/research.html">Bryan Kian Hsiang Low</a>.
+    - Thesis: [Understanding and Improving Neural Architecture Search.](https://www.comp.nus.edu.sg/~lowkh/pubs/phd2022s.pdf)
+- Huazhong University of Science & Technology (HUST), China (Sep 2013 - June 2017)
+    - Bachelor of Computer Science, Honor of Outstanding Student
 
 <!-- <h4 class="archive__subtitle">{{ "Career" }}</h4> -->
 #### Career
-<ul>
-  <li>National University of Singapore (NUS), Singapore</li>
-  <ul>
-    <li>Research Fellow (Jun 2022 - Jun 2023)</li>
-    <li>Research Assistant (Dec 2021 - Jun 2022)</li>
-  </ul>
-</ul>
+
+- National University of Singapore (NUS), Singapore
+    - Research Fellow (Jun 2022 - Jun 2023)
+    - Research Assistant (Dec 2021 - Jun 2022)
 
 <!-- <h2 class="archive__title">{{ "What's New" }}</h2> -->
 ## What's New
