@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: single
 classes: landing
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 ## About Me
