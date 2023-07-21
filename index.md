@@ -9,14 +9,14 @@ toc: true
 I will soon join Tencent AI Lab. I used to be a Research Fellow in the MapleCG group, School of Computing (SoC), National University of Singapore (NUS), advised by Prof. Bryan Low. Before that, I obtained my Ph.D. from National University of Singapore (NUS) under the supervision of Prof. Bryan Low in 2022, and received my B.Sc degree in Department of Computer Science and Technology from Huazhong University of Science & Technology, China in 2017.
 
 
-#### Research Topics
+### Research Topics
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
   - Automated Machine Learning (AutoML), e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.
   - Deep Learning theory, e.g., Neural Tangent Kernel (NTK), Statistical Learning Theory.
   - Optimization algorithms, e.g., Zeroth-Order Optimization (ZOO), Hybrid Optimization, Learn to Optimize (L2O), Bayesian Optimization (BO), Bandit Algorithms.
   - Data-Centric AI, e.g., Data Optimization, Data Valuation, Data Ownership.
 
-#### Education
+### Education
 - National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)
     - Ph.D. student in Artiﬁcial Intelligence, School of Computing.
     - Advisor: <a href="https://www.comp.nus.edu.sg/~lowkh/research.html">Bryan Kian Hsiang Low</a>.
@@ -24,7 +24,7 @@ Currently, my research interests include but are not restricted to the following
 - Huazhong University of Science & Technology (HUST), China (Sep 2013 - June 2017)
     - Bachelor of Computer Science, Honor of Outstanding Student
 
-#### Career
+### Career
 - National University of Singapore (NUS), Singapore
     - Research Fellow (Jun 2022 - Jun 2023)
     - Research Assistant (Dec 2021 - Jun 2022)
@@ -50,7 +50,6 @@ Currently, my research interests include but are not restricted to the following
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
 - Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, 2023
 
-<!-- <h2 class="archive__title">{{ "Teaching Activities" }}</h2> -->
 ## Teaching Activities
 - Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Fall 2019)
