@@ -43,6 +43,7 @@ defaults:
       comments  : true
       share     : true
       related   : true
+      toc       : true
 
 words_per_minute: 250
 search: true # To enable site-wide search  
