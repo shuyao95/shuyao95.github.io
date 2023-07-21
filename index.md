@@ -62,12 +62,12 @@ Currently, my research interests include but are not restricted to the following
 - Honor of Outstanding Student, 2015
 - 2nd prize for The Chinese Mathematics Competitions (Non-professional), 2013
 
+<h2 class="archive__title">{{ "Professional Services" }}</h2>
+- Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
+- Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, 2023
+
 <h2 class="archive__title">{{ "Teaching Activities" }}</h2>
 
 - Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Fall 2019)
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Spring 2019)
-
-<h2 class="archive__title">{{ "Professional Services" }}</h2>
-- Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
-- Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, 2023
