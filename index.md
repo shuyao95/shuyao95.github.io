@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: landing
 author_profile: true
 toc: true
 ---
