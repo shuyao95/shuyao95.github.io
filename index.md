@@ -1,7 +1,5 @@
 ---
-title: none
-layout: single
-classes: landing
+layout: archive
 author_profile: true
 toc: true
 toc_sticky: true
