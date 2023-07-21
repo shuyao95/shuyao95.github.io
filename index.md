@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 toc: true
 ---
@@ -10,7 +10,8 @@ toc: true
 I will soon join Tencent AI Lab. I used to be a Research Fellow in the MapleCG group, School of Computing (SoC), National University of Singapore (NUS), advised by Prof. Bryan Low. Before that, I obtained my Ph.D. from National University of Singapore (NUS) under the supervision of Prof. Bryan Low in 2022, and received my B.Sc degree in Department of Computer Science and Technology from Huazhong University of Science & Technology, China in 2017.
 </p>
 
-<h4 class="archive__subtitle">{{ "Research Topics" }}</h4>
+<!-- <h4 class="archive__subtitle">{{ "Research Topics" }}</h4> -->
+#### Research Topics
 <p>
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
 <ul>
@@ -21,7 +22,8 @@ Currently, my research interests include but are not restricted to the following
 </ul>
 </p>
 
-<h4 class="archive__subtitle">{{ "Education" }}</h4>
+<!-- <h4 class="archive__subtitle">{{ "Education" }}</h4> -->
+#### Education
 <ul>
   <li>National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)</li>
   <ul>
@@ -35,7 +37,8 @@ Currently, my research interests include but are not restricted to the following
   </ul>
 </ul>
 
-<h4 class="archive__subtitle">{{ "Career" }}</h4>
+<!-- <h4 class="archive__subtitle">{{ "Career" }}</h4> -->
+#### Career
 <ul>
   <li>National University of Singapore (NUS), Singapore</li>
   <ul>
@@ -44,7 +47,8 @@ Currently, my research interests include but are not restricted to the following
   </ul>
 </ul>
 
-<h2 class="archive__title">{{ "What's New" }}</h2>
+<!-- <h2 class="archive__title">{{ "What's New" }}</h2> -->
+## What's New
 
 - May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
 - Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
@@ -54,7 +58,8 @@ Currently, my research interests include but are not restricted to the following
 <!-- - Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022! -->
 
 
-<h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2> 
+<!-- <h2 class="archive__title">{{ "Selected Honors and Awards" }}</h2>  -->
+## Selected Honors and Awards
 
 - Valedictorian for the class of Ph.D. graduates, School of Computing, NUS, 2023
 - IMDA Excellence in Computing Prize (Best Ph.D. Thesis), School of Computing, NUS, 2023 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/))
@@ -63,11 +68,13 @@ Currently, my research interests include but are not restricted to the following
 - Honor of Outstanding Student, 2015
 - 2nd prize for The Chinese Mathematics Competitions (Non-professional), 2013
 
-<h2 class="archive__title">{{ "Professional Services" }}</h2>
+<!-- <h2 class="archive__title">{{ "Professional Services" }}</h2> -->
+## Professional Services
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
 - Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, 2023
 
-<h2 class="archive__title">{{ "Teaching Activities" }}</h2>
+<!-- <h2 class="archive__title">{{ "Teaching Activities" }}</h2> -->
+## Teaching Activities
 
 - Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
 - Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Fall 2019)
