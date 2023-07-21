@@ -4,7 +4,8 @@ author_profile: true
 toc: true
 ---
 
-<h2 class="archive__title">{{ "About Me" }}</h2>
+<!-- <h2 class="archive__title">{{ "About Me" }}</h2> -->
+## About Me
 <p>
 I will soon join Tencent AI Lab. I used to be a Research Fellow in the MapleCG group, School of Computing (SoC), National University of Singapore (NUS), advised by Prof. Bryan Low. Before that, I obtained my Ph.D. from National University of Singapore (NUS) under the supervision of Prof. Bryan Low in 2022, and received my B.Sc degree in Department of Computer Science and Technology from Huazhong University of Science & Technology, China in 2017.
 </p>
