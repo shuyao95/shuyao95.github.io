@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: single
+title: "Welcome to Shu Yao's Homepage"
 author_profile: true
 toc: true
 toc_sticky: true

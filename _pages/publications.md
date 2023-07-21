@@ -1,17 +1,17 @@
 ---
 # title:  "publications"
-layout: archive
+layout: single
 permalink: /publications/
 author_profile: true
 comments: false
 toc: true
+toc_sticky: true
 ---
 
-<h2 class="archive__title">{{ "Accepted Papers" }}</h2>
+## Accepted Papers
 \# denotes corresponding author, * denotes equal contribution. 
 
-<h4 class="archive__subtitle">{{ "2023" }}</h4>  
-
+### 2023 
 - <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
     **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low.  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
@@ -30,8 +30,7 @@ toc: true
     </details>  
 
 
-<h4 class="archive__subtitle">{{ "2022" }}</h4>  
-
+### 2022
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
@@ -74,8 +73,8 @@ toc: true
     </details>  
 
 
-<h4 class="archive__subtitle">{{ "2021" }}</h4>  
-
+<!-- <h4 class="archive__subtitle">{{ "2021" }}</h4>   -->
+### 2021
 - <span style="color: royalblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021  
@@ -85,8 +84,7 @@ toc: true
     </details>  
 
 
-<h4 class="archive__subtitle">{{ "2020" }}</h4>  
-
+### 2020
 - <span style="color: royalblue">Understanding Architectures Learnt by Cell-based Neural Architecture Search.</span>  
     **Yao Shu**, Wei Wang, Shaofeng Cai  
     In *The 8th International Conference on Learning Representations* (**ICLR**), 2020  
@@ -97,8 +95,7 @@ toc: true
     </details>  
 
 
-<h2 class="archive__title">{{ "Preprints" }}</h2>
-
+## Preprints
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**, Kun He  
     [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
@@ -121,9 +118,8 @@ toc: true
         GPU (graphics processing unit) has been used for many data-intensive applications. Among them, deep learning systems are one of the most important consumer systems for GPU nowadays. As deep learning applications impose deeper and larger models in order to achieve higher accuracy, memory management becomes an important research topic for deep learning systems, given that GPU has limited memory size. Many approaches have been proposed towards this issue, e.g., model compression and memory swapping. However, they either degrade the model accuracy or require a lot of manual intervention. In this paper, we propose two orthogonal approaches to reduce the memory cost from the system perspective. Our approaches are transparent to the models, and thus do not affect the model accuracy. They are achieved by exploiting the iterative nature of the training algorithm of deep learning to derive the lifetime and read/write order of all variables. With the lifetime semantics, we are able to implement a memory pool with minimal fragments. However, the optimization problem is NP-complete. We propose a heuristic algorithm that reduces up to 13.3% of memory compared with Nvidia's default memory pool with equal time complexity. With the read/write semantics, the variables that are not in use can be swapped out from GPU to CPU to reduce the memory footprint. We propose multiple swapping strategies to automatically decide which variable to swap and when to swap out (in), which reduces the memory cost by up to 34.2% without communication overhead.
     </details>  
 
-<h2 class="archive__title">{{ "Main Collaborators" }}</h2>
+## Main Collaborators
 - [Arun Verma](https://arunv3rma.github.io), Research Fellow, School of Computing, NUS
 - [Cai Shaofeng](https://solopku.github.io), Research Fellow, School of Computing, NUS
 - [Dai Zhongxiang](https://daizhongxiang.github.io), Research Fellow, School of Computing, NUS
-<!-- - [Flint Xiaofeng Fan](https://flint-xf-fan.github.io), Ph.D., School of Computing, NUS -->
 - [Wu Zhaoxuan](https://zhaoxuanwu.github.io), Ph.D., Institute of Data Science, NUS
