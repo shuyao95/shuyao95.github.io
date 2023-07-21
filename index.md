@@ -1,4 +1,5 @@
 ---
+title: none
 layout: single
 classes: landing
 author_profile: true
