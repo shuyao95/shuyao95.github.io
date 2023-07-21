@@ -39,7 +39,7 @@ Currently, my research interests include but are not restricted to the following
 <!-- - Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022! -->
 
 
-## Selected Honors and Awards
+## Honors and Awards
 - Valedictorian for the class of Ph.D. graduates, School of Computing, NUS, 2023
 - IMDA Excellence in Computing Prize (Best Ph.D. Thesis), School of Computing, NUS, 2023 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/))
 - Dean's Graduate Research Excellence Award, School of Computing, NUS, 2022 ([the news](https://www.comp.nus.edu.sg/programmes/pg/awards/deans/))
