@@ -20,7 +20,7 @@
 
 title: "Yao's Homepage"
 masthead_title: "Yao's Homepage"
-description: "Learn more and gain more fun"
+description: "Learn more and have more fun"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shuyao95.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -77,7 +77,7 @@ include:
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # for github pages
 # theme: minimal-mistakes-jekyll # for local build (test)
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
