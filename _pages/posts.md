@@ -1,7 +1,7 @@
 ---
-title:  "BLOGS"
+title:  "POSTS"
 layout: posts
-permalink: /blogs/
+permalink: /posts/
 author_profile: true
 comments: false
 ---
