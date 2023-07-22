@@ -4,14 +4,21 @@ title:  "Valedictorian Speech (NUS SoC Commencement Ceremony 2023)"
 author_profile: true
 toc: true
 toc_sticky: true
+comments: true
 ---
 
 NUS Trustee, Mr. Andrew Lim,
+
 NUS President, Professor Tan Eng Chye,
+
 Senior Vice Provost of Undergraduate Education, Professor Bernard C Y Tan,
+
 Managing Director of Microsoft Singapore, Ms. Lee Hui Li,
+
 Distinguished Guests,
+
 Fellow Graduates,
+
 Ladies and Gentlemen,
 
 Today, we gather here to celebrate the culmination of our academic journey as we bid farewell to our School of Computing within the National University of Singapore. I stand here before you humbled and honored to represent this incredible cohort of doctoral students.

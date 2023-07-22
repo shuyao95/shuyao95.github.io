@@ -10,4 +10,4 @@ comments: false
   {% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %}
+<!-- {% include paginator.html %} -->
