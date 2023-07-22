@@ -2,8 +2,7 @@
 layout: single
 title:  "Valedictorian Speech (NUS SoC Commencement Ceremony 2023)"
 author_profile: true
-toc: true
-toc_sticky: true
+toc: False
 comments: true
 ---
 
