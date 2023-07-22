@@ -38,11 +38,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout    : single
-      read_time : true
-      comments  : true
-      share     : true
-      related   : true
+      layout          : single
+      author_profile  : true
+      read_time       : true
+      comments        : true
+      share           : true
+      related         : true
 
 words_per_minute: 250
 search: true # To enable site-wide search  
@@ -72,6 +73,7 @@ include:
   - .htaccess
   - _pages
   - _layout
+  - _posts
 
 
 # Build settings
