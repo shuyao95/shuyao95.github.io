@@ -9,7 +9,7 @@ toc_sticky: true
 > An investment in knowledge pays the best interest. - Benjamin Franklin
 
 ## About Me
-I am pleased to announce that I am scheduled to commence my affiliation with Tencent AI Lab in the near future. Prior to this, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this tenure, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017.
+I am now a researcher at Tencent. Prior to this, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this tenure, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017.
 
 
 ### Research Topics
