@@ -96,6 +96,13 @@ toc_sticky: true
 
 
 ## Preprints
+- <span style="color: royalblue">Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients.</span>  
+    **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
+    [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
+    <details>
+        <summary>Abstract</summary>
+        Federated optimization, an emerging paradigm which finds wide real-world applications such as federated learning, enables multiple clients (e.g., edge devices) to collaboratively optimize a global function. The clients do not share their local datasets and typically only share their local gradients. However, the gradient information is not available in many applications of federated optimization, which hence gives rise to the paradigm of federated zeroth-order optimization (ZOO). Existing federated ZOO algorithms suffer from the limitations of query and communication inefficiency, which can be attributed to (a) their reliance on a substantial number of function queries for gradient estimation and (b) the significant disparity between their realized local updates and the intended global updates. To this end, we (a) introduce trajectory-informed gradient surrogates which is able to use the history of function queries during optimization for accurate and query-efficient gradient estimation, and (b) develop the technique of adaptive gradient correction using these gradient surrogates to mitigate the aforementioned disparity. Based on these, we propose the federated zeroth-order optimization using trajectory-informed surrogate gradients (FZooS) algorithm for query- and communication-efficient federated ZOO. Our FZooS achieves theoretical improvements over the existing approaches, which is supported by our real-world experiments such as federated black-box adversarial attack and federated non-differentiable metric optimization.
+    </details>  
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**, Kun He  
     [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
