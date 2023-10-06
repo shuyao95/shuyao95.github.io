@@ -14,8 +14,24 @@ toc_sticky: true
 \# denotes corresponding author, * denotes equal contribution. 
 
 ### 2023 
+- <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
+    Zhongxiang Dai*, Gregory Kang Ruey Lau*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
+    In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
+    Acceptance rate: 26.1%. [[pdf]()]  
+    <details>
+        <summary>Abstract</summary>
+        Kernelized bandits, also known as Bayesian optimization (BO), has been a prevalent method for optimizing complicated black-box reward functions. Various BO algorithms have been theoretically shown to enjoy upper bounds on their cumulative regret which are sub-linear in the number $T$ of iterations, and a regret lower bound of $\Omega(\sqrt{T})$ has been derived which represents the unavoidable regrets for any classical BO algorithm. Recent works on quantum bandits have shown that with the aid of quantum computing, it is possible to achieve tighter regret upper bounds better than their corresponding classical lower bounds. However, these works are restricted to either multi-armed or linear bandits, and are hence not able to solve sophisticated real-world problems with non-linear reward functions. To this end, we introduce the quantum-Gaussian process-upper confidence bound (Q-GP-UCB) algorithm. To the best of our knowledge, our Q-GP-UCB is the first BO algorithm able to achieve a regret upper bound of $O(\text{ploy}\log T)$, which is significantly smaller than its regret lower bound of $\Omega(\sqrt{T})$ in the classical setting. Moreover, thanks to our novel analysis of the confidence ellipsoid, our Q-GP-UCB with the linear kernel achieves a smaller regret than the quantum linear UCB algorithm from the previous work. We use simulations to verify that the theoretical quantum speedup achieved by our Q-GP-UCB is also potentially relevant in practice.
+    </details> 
+- <span style="color: royalblue">Exploiting Correlated Auxiliary Feedback in Parameterized Bandits.</span>  
+    Arun Verma, Zhongxiang Dai, **Yao Shu** and Kian Hsiang Low  
+    In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
+    Acceptance rate: 26.1%. [[pdf]()]  
+    <details>
+        <summary>Abstract</summary>
+        We study a novel variant of the parameterized bandits problem in which the learner can observe auxiliary feedback that is correlated with the observed reward. The auxiliary feedback is readily available in many real-life applications, e.g., an online platform that wants to recommend the best-rated services to its users can observe the user's rating of service (rewards) and collect additional information like service delivery time (auxiliary feedback). We first develop a method that exploits auxiliary feedback to build a reward estimator with tight confidence bounds, leading to a smaller regret. We then characterize the regret reduction in terms of the correlation coefficient between reward and auxiliary feedback. Experimental results in different settings also verify the performance gain achieved by our proposed method.
+    </details> 
 - <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
-    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low.  
+    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
     Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=n1bLgxHW6jW)]  
     <details>
@@ -23,7 +39,7 @@ toc_sticky: true
         Zeroth-order (ZO) optimization, in which the derivative is unavailable, has recently succeeded in many important machine learning applications. Existing algorithms rely on finite difference (FD) methods for derivative estimation and gradient descent (GD)-based approaches for optimization. However, these algorithms suffer from query inefficiency because additional function queries are required for derivative estimation in their every GD update, which typically hinders their deployment in applications where every function query is expensive. To this end, we propose a trajectory-informed derivative estimation method which only uses the optimization trajectory (i.e., the history of function queries during optimization) and hence eliminates the need for additional function queries to estimate a derivative. Moreover, based on our derivative estimation, we propose the technique of dynamic virtual updates, which allows us to reliably perform multiple steps of GD updates without reapplying derivative estimation. Based on these two contributions, we introduce the zeroth-order optimization with trajectory-informed derivative estimation (ZoRD) algorithm for query-efficient ZO optimization. We theoretically demonstrate that our trajectory-informed derivative estimation and our ZoRD algorithm improve over existing approaches, which is then supported by our real-world experiments such as black-box adversarial attack, non-differentiable metric optimization and derivative-free reinforcement learning.
     </details>  
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
-    Zhongxiang Dai, **Yao Shu**, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet.  
+    Zhongxiang Dai, **Yao Shu**, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
     Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=38m4h8HcNRL)]  
     <details>
@@ -96,8 +112,15 @@ toc_sticky: true
 
 
 ## Preprints
+- <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
+    Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low.  
+    [arXiv:2310.02905](https://arxiv.org/abs/2310.02905), 2023
+    <details>
+        <summary>Abstract</summary>
+        Large language models (LLMs) have shown remarkable instruction-following capabilities and achieved impressive performances in various applications. However, the performances of LLMs depend heavily on the instructions given to them, which are typically manually tuned with substantial human efforts. Recent work has used the query-efficient Bayesian optimization (BO) algorithm to automatically optimize the instructions given to black-box LLMs. However, BO usually falls short when optimizing highly sophisticated (e.g., high-dimensional) objective functions, such as the functions mapping an instruction to the performance of an LLM. This is mainly due to the limited expressive power of the Gaussian process (GP) model which is used by BO as a surrogate to model the objective function. Meanwhile, it has been repeatedly shown that neural networks (NNs), especially pre-trained transformers, possess strong expressive power and can model highly complex functions. So, we adopt a neural bandit algorithm which replaces the GP in BO by an NN surrogate to optimize instructions for black-box LLMs. More importantly, the neural bandit algorithm allows us to naturally couple the NN surrogate with the hidden representation learned by a pre-trained transformer (i.e., an open-source LLM), which significantly boosts its performance. These motivate us to propose our INSTruction optimization usIng Neural bandits Coupled with Transformers} (INSTINCT) algorithm. We perform instruction optimization for ChatGPT and use extensive experiments to show that our INSTINCT consistently outperforms the existing methods in different tasks, such as in various instruction induction tasks and the task of improving the zero-shot chain-of-thought instruction.
+    </details>  
 - <span style="color: royalblue">Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients.</span>  
-    **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
+    **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  Xiaoqiang Lin*, Zhaoxuan Wu*, Zhongxiang Dai, Wenyang Hu, Yao Shu, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low.
     [arXiv:2308.04077](https://arxiv.org/abs/2308.04077), 2023
     <details>
         <summary>Abstract</summary>
