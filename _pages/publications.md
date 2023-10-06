@@ -15,7 +15,7 @@ toc_sticky: true
 
 ### 2023 
 - <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
-    Zhongxiang Dai*, Gregory Kang Ruey Lau*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
+    Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
     In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
     Acceptance rate: 26.1%. [[pdf]()]  
     <details>
