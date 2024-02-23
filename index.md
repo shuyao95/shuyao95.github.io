@@ -31,16 +31,16 @@ Currently, my research interests include but are not restricted to the following
     - Bachelor of Computer Science, Honor of Outstanding Student
 
 ### Career Background
-- Jan 2024 - Now, Researcher (PI of Principled AI Research Group), Guangdong Lab of AI and Digital Economy (SZ)
-- Aug 2022 - Dec 2023, Senior Researcher (Tencent Talent), Tencent
-- Jun 2022 - Jun 2023, Research Fellow, National University of Singapore (NUS)
-- Jun 2022 - Jun 2023, Research Assistant, National University of Singapore (NUS)
+- 2024.01 - Now, Researcher (PI of Principled AI Research Group), Guangdong Lab of AI and Digital Economy (SZ)
+- 2023.08 - 2023.12, Senior Researcher (Tencent Talent), Tencent
+- 2022.04 - 2023.06, Research Fellow, National University of Singapore (NUS)
+- 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
-- Jan 2024: Our paper on "Training-free NAS" is accepted to ICLR 2024!
-- Sep 2023: Our two papers are accepted to NeurIPS 2023!
-- May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
-- Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
+- 2024.01: Our paper on "Training-free NAS" is accepted to ICLR 2024!
+- 2023.09: Our two papers are accepted to NeurIPS 2023!
+- 2023.05: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
+- 2023.01: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
 <!-- - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022! -->
 <!-- - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022! -->
 <!-- - May 2022: Our paper on "Data Valuation" is accepted to ICML 2022! -->
