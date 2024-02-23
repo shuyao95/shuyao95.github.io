@@ -6,13 +6,13 @@ toc: true
 toc_sticky: true
 ---
 
-> An investment in knowledge pays the best interest. - Benjamin Franklin
+<!-- > An investment in knowledge pays the best interest. - Benjamin Franklin -->
 
 ## About Me
 I am a researcher at the Guangdong Lab of AI and Digital Economy (SZ), focusing on pioneering advancements in principled artificial intelligence research. Previously, I was a senior researcher at Tencent, where I contributed to cutting-edge technology projects. My academic journey includes a Research Fellow position at the National University of Singapore's (NUS) School of Computing, within the MapleCG group, under the esteemed guidance of Prof. Bryan Low. I earned my Ph.D. from NUS in 2022, under Prof. Low's mentorship, following a B.Sc in Computer Science and Technology from Huazhong University of Science & Technology, China, in 2017.
 <!-- I am currently a researcher at Guangdong Lab of AI and Digital Economy (SZ). Prior to this, I served as a senior researcher at Tencent. Before that, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this position, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017. -->
 
-==Hiring: Our $\pi$-Group, specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.==
+*Hiring: Our $\pi$-Group, specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.*
 
 ### Research Interest
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
