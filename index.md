@@ -16,11 +16,11 @@ I am a researcher at the Guangdong Lab of AI and Digital Economy (SZ), focusing 
 
 ### Research Interest
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
-  - Deep Learning Theory, e.g., Neural Tangent Kernel (**NTK**), Statistical Learning Theory.
-  - Optimization & Decision-Making, e.g., Zeroth-Order Optimization (**ZOO**), Bayesian Optimization (**BO**), Bandit Algorithm, Reinforcement Learning (**RL**).
-  - Generative Models, e.g., Large Language Model (**LLM**), Diffusion Model.
+  - Deep Learning Theory, e.g., Neural Tangent Kernel, Statistical Learning Theory.
+  - Optimization & Decision-Making, e.g., Zeroth-Order Optimization, Bayesian Optimization, Bandit Algorithm, Reinforcement Learning.
+  - Generative Models, e.g., Large Language Model, Diffusion Model.
   - Data-Centric AI, e.g., Data Optimization, Data Valuation, Data Ownership.
-  - Automated Machine Learning (AutoML), e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.
+  - Automated Machine Learning, e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.
 
 ### Education Background
 - National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)
