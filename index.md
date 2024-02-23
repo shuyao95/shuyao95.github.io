@@ -9,19 +9,20 @@ toc_sticky: true
 > An investment in knowledge pays the best interest. - Benjamin Franklin
 
 ## About Me
-I am now a senior researcher at Tencent. Prior to this, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this tenure, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017.
+I am a researcher at the Guangdong Lab of AI and Digital Economy (SZ), focusing on pioneering advancements in principled artificial intelligence research. Previously, I was a senior researcher at Tencent, where I contributed to cutting-edge technology projects. My academic journey includes a Research Fellow position at the National University of Singapore's (NUS) School of Computing, within the MapleCG group, under the esteemed guidance of Prof. Bryan Low. I earned my Ph.D. from NUS in 2022, under Prof. Low's mentorship, following a B.Sc in Computer Science and Technology from Huazhong University of Science & Technology, China, in 2017.
+<!-- I am currently a researcher at Guangdong Lab of AI and Digital Economy (SZ). Prior to this, I served as a senior researcher at Tencent. Before that, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this position, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017. -->
 
+==Hiring: Our $\pi$-Group, specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.==
 
-### Research Topics
+### Research Interest
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
-  - Deep Learning theory, e.g., Neural Tangent Kernel (NTK), Statistical Learning Theory.
-  - Optimization algorithms, e.g., Zeroth-Order Optimization (ZOO), Hybrid Optimization, Learn to Optimize (L2O), Bayesian Optimization (BO), Bandit Algorithms.
-  - Reinforcement learning algorithms, e.g., offline RL
-  - Large Language Model (LLM), e.g., prompt optimization, LLM-based AI agent.
+  - Deep Learning Theory, e.g., Neural Tangent Kernel (**NTK**), Statistical Learning Theory.
+  - Optimization & Decision-Making, e.g., Zeroth-Order Optimization (**ZOO**), Bayesian Optimization (**BO**), Bandit Algorithm, Reinforcement Learning (**RL**).
+  - Generative Models, e.g., Large Language Model (**LLM**), Diffusion Model.
   - Data-Centric AI, e.g., Data Optimization, Data Valuation, Data Ownership.
   - Automated Machine Learning (AutoML), e.g., Automated Data Optimization, Neural Architecture Search, Hyper-parameter Optimization.
 
-### Education
+### Education Background
 - National University of Singapore (NUS), Singapore (Aug 2017 - Aug 2022)
     - Ph.D. student in Artiﬁcial Intelligence, School of Computing.
     - Advisor: <a href="https://www.comp.nus.edu.sg/~lowkh/research.html">Bryan Kian Hsiang Low</a>.
@@ -29,18 +30,20 @@ Currently, my research interests include but are not restricted to the following
 - Huazhong University of Science & Technology (HUST), China (Sep 2013 - June 2017)
     - Bachelor of Computer Science, Honor of Outstanding Student
 
-### Career
-- National University of Singapore (NUS), Singapore
-    - Research Fellow (Jun 2022 - Jun 2023)
-    - Research Assistant (Dec 2021 - Jun 2022)
+### Career Background
+- Jan 2024 - Now, Researcher (PI of Principled AI Research Group), Guangdong Lab of AI and Digital Economy (SZ)
+- Aug 2022 - Dec 2023, Senior Researcher (Tencent Talent), Tencent
+- Jun 2022 - Jun 2023, Research Fellow, National University of Singapore (NUS)
+- Jun 2022 - Jun 2023, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
+- Jan 2024: Our paper on "Training-free NAS" is accepted to ICLR 2024!
 - Sep 2023: Our two papers are accepted to NeurIPS 2023!
 - May 2023: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
 - Jan 2023: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
-- Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022!
-- May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022!
-- May 2022: Our paper on "Data Valuation" is accepted to ICML 2022!
+<!-- - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022! -->
+<!-- - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022! -->
+<!-- - May 2022: Our paper on "Data Valuation" is accepted to ICML 2022! -->
 <!-- - Jan 2022: Our paper on "Training-free Neural Architecture Search" is accepted to ICLR 2022! -->
 
 
@@ -54,7 +57,7 @@ Currently, my research interests include but are not restricted to the following
 
 ## Professional Services
 - Invited to serve as a reviewer for ICML, NeurIPS, ACML, ICLR, AAMAS, AISTATS, 2022
-- Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, AAMAS, AAAI, ICLR, 2023
+- Invited to serve as a reviewer for ICML, UAI, NeurIPS, TPAMI, AAMAS, AAAI, ICLR, IJCAI, 2023
 
 ## Teaching Activities
 - Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
