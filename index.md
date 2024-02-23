@@ -66,6 +66,7 @@ Currently, my research interests include but are not restricted to the following
   - AAMAS (2023,2024)
   - UAI (2023,2024)
   - AISTATS (2023,2024)
+  - RLC (2024)
 
 ## Teaching Activities
 - Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
