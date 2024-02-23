@@ -69,6 +69,6 @@ Currently, my research interests include but are not restricted to the following
   - RLC (2024)
 
 ## Teaching Activities
-- Teaching assistant for *CS3244 Machine Learning*, School of Computing, NUS (Spring 2021)
-- Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Fall 2019)
-- Teaching assistant for *CS5242 Neural Networks and Deep Learning*, School of Computing, NUS (Spring 2019)
+- TA for *CS3244 Machine Learning*, NUS (Spring 2021)
+- TA for *CS5242 Neural Networks and Deep Learning*, NUS (Fall 2019)
+- TA for *CS5242 Neural Networks and Deep Learning*, NUS (Spring 2019)
