@@ -12,7 +12,7 @@ toc_sticky: true
 I am currently a researcher at the Guangdong Lab of AI and Digital Economy (SZ), focusing on pioneering advancements in principled artificial intelligence research. Previously, I was a senior researcher at Tencent, where I contributed to cutting-edge technology projects. My academic journey includes a Research Fellow position at the National University of Singapore's (NUS) School of Computing, within the MapleCG group, under the esteemed guidance of Prof. Bryan Low. I earned my Ph.D. from NUS in 2022, under Prof. Low's mentorship, following a B.Sc in Computer Science and Technology from Huazhong University of Science & Technology, China, in 2017.
 <!-- I am currently a researcher at Guangdong Lab of AI and Digital Economy (SZ). Prior to this, I served as a senior researcher at Tencent. Before that, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this position, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017. -->
 
-<span style="color: royalblue">*Hiring: Our principled AI research group ($\pi$-Group), specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.*</span>
+<span style="color: royalblue">**Hiring**: *Our principled AI research group ($\pi$-Group), specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.*</span>
 
 ### Research Interest
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
@@ -33,7 +33,7 @@ Currently, my research interests include but are not restricted to the following
 ### Career Background
 - 2024.01 - Now, Researcher (PI of Principled AI Research Group), Guangdong Lab of AI and Digital Economy (SZ)
 - 2023.08 - 2023.12, Senior Researcher (Tencent Talent), Tencent
-- 2022.04 - 2023.06, Research Fellow, National University of Singapore (NUS)
+- 2022.04 - 2023.06, Research Fellow (PostDoc.), National University of Singapore (NUS)
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
