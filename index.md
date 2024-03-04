@@ -57,16 +57,16 @@ Currently, my research interests include but are not restricted to the following
 
 ## Professional Services
 - Program Committee (PC) member/reviewer of
-  - ICML     2022,2023,2024
-  - NeurIPS  2022,2023
-  - ICLR     2023,2024
-  - AAAI     2024
-  - IJCAI    2024
-  - TPAMI    2023
-  - AAMAS    2023,2024
-  - UAI      2023,2024
-  - AISTATS  2023,2024
-  - RLC      2024
+  - ICML:     2022,2023,2024
+  - NeurIPS:  2022,2023
+  - ICLR:     2023,2024
+  - AAAI:     2024
+  - IJCAI:    2024
+  - TPAMI:    2023
+  - AAMAS:    2023,2024
+  - UAI:      2023,2024
+  - AISTATS:  2023,2024
+  - RLC:      2024
   - TIT
 
 ## Teaching Activities
