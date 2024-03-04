@@ -12,7 +12,7 @@ toc_sticky: true
 \# denotes corresponding author, * denotes equal contribution. 
 
 ## Generative Models
-> <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
+- <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
     Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low  
     [arXiv:2310.02905](https://arxiv.org/abs/2310.02905), 2023
     <details>
@@ -21,7 +21,7 @@ toc_sticky: true
     </details>  
 
 ## Optimization & Decision-Making
-> <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
+- <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
     **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu  
     [arXiv:2402.11427](https://arxiv.org/abs/2402.11427), 2024
     <details>
