@@ -12,7 +12,7 @@ toc_sticky: true
 I am currently a researcher at the Guangdong Lab of AI and Digital Economy (SZ), focusing on pioneering advancements in principled artificial intelligence research. Previously, I was a senior researcher at Tencent, where I contributed to cutting-edge technology projects. My academic journey includes a Research Fellow position at the National University of Singapore's (NUS) School of Computing, within the MapleCG group, under the esteemed guidance of Prof. Bryan Low. I earned my Ph.D. from NUS in 2022, under Prof. Low's mentorship, following a B.Sc in Computer Science and Technology from Huazhong University of Science & Technology, China, in 2017.
 <!-- I am currently a researcher at Guangdong Lab of AI and Digital Economy (SZ). Prior to this, I served as a senior researcher at Tencent. Before that, I held the esteemed position of a Research Fellow within the MapleCG group, situated within the School of Computing (SoC) at the distinguished National University of Singapore (NUS), where I had the privilege of being under the mentorship of Prof. Bryan Low. Preceding this position, I successfully completed my Ph.D. at the National University of Singapore (NUS) in 2022, diligently guided by Prof. Bryan Low. Furthermore, my academic journey commenced with the acquisition of a B.Sc degree in the Department of Computer Science and Technology from Huazhong University of Science & Technology, China, in the year 2017. -->
 
-<span style="color: royalblue">**Hiring**: *Our principled AI research group ($\pi$-Group), specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.*</span>
+<span style="color: royalblue">***Openings**:Our principled AI research group ($\pi$-Group), specializing in AI learning and optimization theories, seeks researchers and engineers to explore core AI theories, develop sophisticated optimization algorithms, and create practical, robust AI solutions. Interested candidates should contact directly at shuyao@gml.ac.cn.*</span>
 
 ### Research Interest
 Currently, my research interests include but are not restricted to the following aspects of Machine Learning and Deep Learning:
@@ -40,7 +40,7 @@ Currently, my research interests include but are not restricted to the following
 - 2024.01: Our paper on "Training-free NAS" is accepted to ICLR 2024!
 - 2023.09: Our two papers are accepted to NeurIPS 2023!
 - 2023.05: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
-- 2023.01: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023!
+<!-- - 2023.01: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023! -->
 <!-- - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022! -->
 <!-- - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022! -->
 <!-- - May 2022: Our paper on "Data Valuation" is accepted to ICML 2022! -->
@@ -57,16 +57,17 @@ Currently, my research interests include but are not restricted to the following
 
 ## Professional Services
 - Program Committee (PC) member/reviewer of
-  - ICML (2022,2023,2024)
-  - NeurIPS (2022,2023)
-  - ICLR (2023,2024)
-  - AAAI (2024)
-  - IJCAI (2024)
-  - TPAMI (2023)
-  - AAMAS (2023,2024)
-  - UAI (2023,2024)
-  - AISTATS (2023,2024)
-  - RLC (2024)
+  - ICML     2022,2023,2024
+  - NeurIPS  2022,2023
+  - ICLR     2023,2024
+  - AAAI     2024
+  - IJCAI    2024
+  - TPAMI    2023
+  - AAMAS    2023,2024
+  - UAI      2023,2024
+  - AISTATS  2023,2024
+  - RLC      2024
+  - TIT
 
 ## Teaching Activities
 - TA for *CS3244 Machine Learning*, NUS (Spring 2021)
