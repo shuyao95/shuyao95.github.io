@@ -37,7 +37,7 @@ Currently, my research interests include but are not restricted to the following
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
-- 2024.06: Our paper on "Heterogeneous Federated Zeroth-Order Optimization" is accepted to Differentiable Almost Everything workshop @ ICML 2024!
+- 2024.06: Our one paper on "Heterogeneous Federated Zeroth-Order Optimization" is accepted to Differentiable Almost Everything workshop @ ICML 2024 and two paper on "Prompt Optimization" are accepted to In-Context Learning workshop @ ICML 2024!
 - 2024.05: Our paper on "Prompt Optimization" is accepted to ICML 2024!
 - 2024.01: Our paper on "Training-free NAS" is accepted to ICLR 2024!
 - 2023.09: Our two papers are accepted to NeurIPS 2023!
