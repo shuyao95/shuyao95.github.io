@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Shu Yao's Academic Homepage"
+title: "Welcome to Shu Yao's Academic Homepage"
 author_profile: true
 toc: true
 toc_sticky: true
