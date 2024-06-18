@@ -1,6 +1,7 @@
 ---
 title:  "POSTS"
 layout: posts
+classes: wide
 permalink: /posts/
 author_profile: true
 comments: false

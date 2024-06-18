@@ -1,6 +1,7 @@
 ---
 title:  "PUBLICATIONS"
 layout: single
+classes: wide
 permalink: /publications/
 author_profile: true
 comments: false
@@ -11,23 +12,8 @@ toc_sticky: true
 <!-- ## Accepted Papers -->
 \# denotes corresponding author, * denotes equal contribution. 
 
-## Generative Models
-- <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
-    Wenyang Hu, **Yao Shu**, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
-    [arXiv:2403.02993](https://arxiv.org/abs/2403.02993), 2024
-    <details>
-        <summary>Abstract</summary>
-        The efficacy of large language models (LLMs) in understanding and generating natural language has aroused a wide interest in developing prompt-based methods to harness the power of black-box LLMs. Existing methodologies usually prioritize a global optimization for finding the global optimum, which however will perform poorly in certain tasks. This thus motivates us to re-think the necessity of finding a global optimum in prompt optimization. To answer this, we conduct a thorough empirical study on prompt optimization and draw two major insights. Contrasting with the rarity of global optimum, local optima are usually prevalent and well-performed, which can be more worthwhile for efficient prompt optimization (Insight I). The choice of the input domain, covering both the generation and the representation of prompts, affects the identification of well-performing local optima (Insight II). Inspired by these insights, we propose a novel algorithm, namely localized zeroth-order prompt optimization (ZOPO), which incorporates a Neural Tangent Kernel-based derived Gaussian process into standard zeroth-order optimization for an efficient search of well-performing local optima in prompt optimization. Remarkably, ZOPO outperforms existing baselines in terms of both the optimization performance and the query efficiency, which we demonstrate through extensive experiments.
-    </details>  
-- <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
-    Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low  
-    [arXiv:2310.02905](https://arxiv.org/abs/2310.02905), 2023
-    <details>
-        <summary>Abstract</summary>
-        Large language models (LLMs) have shown remarkable instruction-following capabilities and achieved impressive performances in various applications. However, the performances of LLMs depend heavily on the instructions given to them, which are typically manually tuned with substantial human efforts. Recent work has used the query-efficient Bayesian optimization (BO) algorithm to automatically optimize the instructions given to black-box LLMs. However, BO usually falls short when optimizing highly sophisticated (e.g., high-dimensional) objective functions, such as the functions mapping an instruction to the performance of an LLM. This is mainly due to the limited expressive power of the Gaussian process (GP) model which is used by BO as a surrogate to model the objective function. Meanwhile, it has been repeatedly shown that neural networks (NNs), especially pre-trained transformers, possess strong expressive power and can model highly complex functions. So, we adopt a neural bandit algorithm which replaces the GP in BO by an NN surrogate to optimize instructions for black-box LLMs. More importantly, the neural bandit algorithm allows us to naturally couple the NN surrogate with the hidden representation learned by a pre-trained transformer (i.e., an open-source LLM), which significantly boosts its performance. These motivate us to propose our INSTruction optimization usIng Neural bandits Coupled with Transformers} (INSTINCT) algorithm. We perform instruction optimization for ChatGPT and use extensive experiments to show that our INSTINCT consistently outperforms the existing methods in different tasks, such as in various instruction induction tasks and the task of improving the zero-shot chain-of-thought instruction.
-    </details>  
-
-## Optimization & Decision-Making
+## Learning for Optimization
+### Local Optimization
 - <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
     **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu  
     [arXiv:2402.11427](https://arxiv.org/abs/2402.11427), 2024
@@ -37,11 +23,22 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients.</span>  
     **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
-    [arXiv:2308.04077](https://arxiv.org/abs/2308.04077), 2023
+    In *Differentiable Almost Everything Workshop @ **ICML** 2024*
+    [arXiv:2308.04077](https://arxiv.org/abs/2308.04077)
     <details>
         <summary>Abstract</summary>
-        Federated optimization, an emerging paradigm which finds wide real-world applications such as federated learning, enables multiple clients (e.g., edge devices) to collaboratively optimize a global function. The clients do not share their local datasets and typically only share their local gradients. However, the gradient information is not available in many applications of federated optimization, which hence gives rise to the paradigm of federated zeroth-order optimization (ZOO). Existing federated ZOO algorithms suffer from the limitations of query and communication inefficiency, which can be attributed to (a) their reliance on a substantial number of function queries for gradient estimation and (b) the significant disparity between their realized local updates and the intended global updates. To this end, we (a) introduce trajectory-informed gradient surrogates which is able to use the history of function queries during optimization for accurate and query-efficient gradient estimation, and (b) develop the technique of adaptive gradient correction using these gradient surrogates to mitigate the aforementioned disparity. Based on these, we propose the federated zeroth-order optimization using trajectory-informed surrogate gradients (FZooS) algorithm for query- and communication-efficient federated ZOO. Our FZooS achieves theoretical improvements over the existing approaches, which is supported by our real-world experiments such as federated black-box adversarial attack and federated non-differentiable metric optimization.
+        Federated optimization, an emerging paradigm that finds wide applications, e.g., federated learning, enables multiple clients (e.g., edge devices) to collaboratively optimize a global function by sharing their local gradients. However, the gradient information is not available in many applications, giving rise to the paradigm of federated zeroth-order optimization (ZOO). Existing federated ZOO algorithms typically suffer from the limitations of query and communication round inefficiency, which can be attributed to (a) their reliance on a substantial number of function queries for gradient estimation and (b) the significant disparity between their realized local updates and the intended global updates caused by client heterogeneity. To this end, we (a) introduce trajectory-informed gradient surrogates which are capable of using the history of function queries during optimization for accurate and query-efficient gradient estimation, and (b) develop the technique of adaptive gradient correction using these surrogates to mitigate the aforementioned disparity. With these, we propose the federated zeroth-order optimization using gradient surrogates (FZooS) algorithm for query- and communication round-efficient heterogeneous federated ZOO, which is supported by our theoretical analyses and extensive experiments.
     </details>  
+- <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
+    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low  
+    In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
+    Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=n1bLgxHW6jW)]  
+    <details>
+        <summary>Abstract</summary>
+        Zeroth-order (ZO) optimization, in which the derivative is unavailable, has recently succeeded in many important machine learning applications. Existing algorithms rely on finite difference (FD) methods for derivative estimation and gradient descent (GD)-based approaches for optimization. However, these algorithms suffer from query inefficiency because additional function queries are required for derivative estimation in their every GD update, which typically hinders their deployment in applications where every function query is expensive. To this end, we propose a trajectory-informed derivative estimation method which only uses the optimization trajectory (i.e., the history of function queries during optimization) and hence eliminates the need for additional function queries to estimate a derivative. Moreover, based on our derivative estimation, we propose the technique of dynamic virtual updates, which allows us to reliably perform multiple steps of GD updates without reapplying derivative estimation. Based on these two contributions, we introduce the zeroth-order optimization with trajectory-informed derivative estimation (ZoRD) algorithm for query-efficient ZO optimization. We theoretically demonstrate that our trajectory-informed derivative estimation and our ZoRD algorithm improve over existing approaches, which is then supported by our real-world experiments such as black-box adversarial attack, non-differentiable metric optimization and derivative-free reinforcement learning.
+    </details>  
+
+### Global Optimization
 - <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
     Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
     In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
@@ -58,14 +55,6 @@ toc_sticky: true
         <summary>Abstract</summary>
         We study a novel variant of the parameterized bandits problem in which the learner can observe auxiliary feedback that is correlated with the observed reward. The auxiliary feedback is readily available in many real-life applications, e.g., an online platform that wants to recommend the best-rated services to its users can observe the user's rating of service (rewards) and collect additional information like service delivery time (auxiliary feedback). We first develop a method that exploits auxiliary feedback to build a reward estimator with tight confidence bounds, leading to a smaller regret. We then characterize the regret reduction in terms of the correlation coefficient between reward and auxiliary feedback. Experimental results in different settings also verify the performance gain achieved by our proposed method.
     </details> 
-- <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
-    **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low  
-    In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
-    Acceptance rate: 31.8%. [[pdf](https://openreview.net/pdf?id=n1bLgxHW6jW)]  
-    <details>
-        <summary>Abstract</summary>
-        Zeroth-order (ZO) optimization, in which the derivative is unavailable, has recently succeeded in many important machine learning applications. Existing algorithms rely on finite difference (FD) methods for derivative estimation and gradient descent (GD)-based approaches for optimization. However, these algorithms suffer from query inefficiency because additional function queries are required for derivative estimation in their every GD update, which typically hinders their deployment in applications where every function query is expensive. To this end, we propose a trajectory-informed derivative estimation method which only uses the optimization trajectory (i.e., the history of function queries during optimization) and hence eliminates the need for additional function queries to estimate a derivative. Moreover, based on our derivative estimation, we propose the technique of dynamic virtual updates, which allows us to reliably perform multiple steps of GD updates without reapplying derivative estimation. Based on these two contributions, we introduce the zeroth-order optimization with trajectory-informed derivative estimation (ZoRD) algorithm for query-efficient ZO optimization. We theoretically demonstrate that our trajectory-informed derivative estimation and our ZoRD algorithm improve over existing approaches, which is then supported by our real-world experiments such as black-box adversarial attack, non-differentiable metric optimization and derivative-free reinforcement learning.
-    </details>  
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
     Zhongxiang Dai, **Yao Shu**#, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
@@ -82,15 +71,25 @@ toc_sticky: true
         <summary>Abstract</summary>
         Bayesian optimization (BO), which uses a Gaussian process (GP) as a surrogate to model its objective function, is popular for black-box optimization. However, due to the limitations of GPs, BO underperforms in some problems such as those with categorical, high-dimensional or image inputs. To this end, recent works have used the highly expressive neural networks (NNs) as the surrogate model and derived theoretical guarantees using the theory of neural tangent kernel (NTK). However, these works suffer from the limitations of the requirement to invert an extremely large parameter matrix and the restriction to the sequential (rather than batch) setting. To overcome these limitations, we introduce two algorithms based on the Thompson sampling (TS) policy named Sample-Then-Optimize Batch Neural TS (STO-BNTS) and STO-BNTS-Linear. To choose an input query, we only need to train an NN (resp. a linear model) and then choose the query by maximizing the trained NN (resp. linear model), which is equivalently sampled from the GP posterior with the NTK as the kernel function. As a result, our algorithms sidestep the need to invert the large parameter matrix yet still preserve the validity of the TS policy. Next, we derive regret upper bounds for our algorithms with batch evaluations, and use insights from batch BO and NTK to show that they are asymptotically no-regret under certain conditions. Finally, we verify their empirical effectiveness using practical AutoML and reinforcement learning experiments. 
     </details>  
-- <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
-    Min Zhang, **Yao Shu**, Kun He  
-    [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
+
+## Optimization for Learning 
+## Data-Centric AI
+- <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
+    Wenyang Hu, **Yao Shu**, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
+    [arXiv:2403.02993](https://arxiv.org/abs/2403.02993), 2024
     <details>
         <summary>Abstract</summary>
-        Finite-sum optimization plays an important role in the area of machine learning, and hence has triggered a surge of interest in recent years. To address this optimization problem, various randomized incremental gradient methods have been proposed with guaranteed upper and lower complexity bounds for their convergence. Nonetheless, these lower bounds rely on certain conditions: deterministic optimization algorithm, or fixed probability distribution for the selection of component functions. Meanwhile, some lower bounds even do not match the upper bounds of the best known methods in certain cases. To break these limitations, we derive tight lower complexity bounds of randomized incremental gradient methods, including SAG, SAGA, SVRG, and SARAH, for two typical cases of finite-sum optimization. Specifically, our results tightly match the upper complexity of Katyusha or VRADA when each component function is strongly convex and smooth, and tightly match the upper complexity of SDCA without duality and of KatyushaX when the finite-sum function is strongly convex and the component functions are average smooth.
+        The efficacy of large language models (LLMs) in understanding and generating natural language has aroused a wide interest in developing prompt-based methods to harness the power of black-box LLMs. Existing methodologies usually prioritize a global optimization for finding the global optimum, which however will perform poorly in certain tasks. This thus motivates us to re-think the necessity of finding a global optimum in prompt optimization. To answer this, we conduct a thorough empirical study on prompt optimization and draw two major insights. Contrasting with the rarity of global optimum, local optima are usually prevalent and well-performed, which can be more worthwhile for efficient prompt optimization (Insight I). The choice of the input domain, covering both the generation and the representation of prompts, affects the identification of well-performing local optima (Insight II). Inspired by these insights, we propose a novel algorithm, namely localized zeroth-order prompt optimization (ZOPO), which incorporates a Neural Tangent Kernel-based derived Gaussian process into standard zeroth-order optimization for an efficient search of well-performing local optima in prompt optimization. Remarkably, ZOPO outperforms existing baselines in terms of both the optimization performance and the query efficiency, which we demonstrate through extensive experiments.
     </details>  
-
-## Data-Centric AI
+- <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
+    Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai#, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low
+    In *Instruction Workshop @ **NeurIPS** 2023*
+    In *The 41st International Conference on Machine Learning* (**ICML**), 2024  
+    Acceptance rate: 27.5%. [[pdf](https://openreview.net/pdf?id=RLENZ8pNnn)]  
+    <details>
+        <summary>Abstract</summary>
+        Large language models (LLMs) have shown remarkable instruction-following capabilities and achieved impressive performances in various applications. However, the performances of LLMs depend heavily on the instructions given to them, which are typically manually tuned with substantial human efforts. Recent work has used the query-efficient Bayesian optimization (BO) algorithm to automatically optimize the instructions given to black-box LLMs. However, BO usually falls short when optimizing highly sophisticated (e.g., high-dimensional) objective functions, such as the functions mapping an instruction to the performance of an LLM. This is mainly due to the limited expressive power of the Gaussian process (GP) model which is used by BO as a surrogate to model the objective function. Meanwhile, it has been repeatedly shown that neural networks (NNs), especially pre-trained transformers, possess strong expressive power and can model highly complex functions. So, we adopt a neural bandit algorithm which replaces the GP in BO by an NN surrogate to optimize instructions for black-box LLMs. More importantly, the neural bandit algorithm allows us to naturally couple the NN surrogate with the hidden representation learned by a pre-trained transformer (i.e., an open-source LLM), which significantly boosts its performance. These motivate us to propose our INSTruction optimization usIng Neural bandits Coupled with Transformers (INSTINCT) algorithm. We perform instruction optimization for ChatGPT and use extensive experiments to show that our INSTINCT consistently outperforms the existing methods in different tasks, such as in various instruction induction tasks and the task of improving the zero-shot chain-of-thought instruction.
+    </details>  
 - <span style="color: royalblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
     Zhaoxuan Wu, **Yao Shu**, Bryan Kian Hsiang Low  
     In *The 39th International Conference on Machine Learning* (**ICML**), 2022  
@@ -100,7 +99,7 @@ toc_sticky: true
         Recent years have witnessed a surge of interest in developing trustworthy methods to evaluate the value of data in many real-world applications, e.g., collaborative machine learning, data marketplaces, etc. Existing data valuation methods typically valuate data using the generalization performance of converged machine learning models after their long-term model training, making data valuation on large complex deep neural networks (DNNs) unaffordable. To this end, we theoretically derive a domain-aware generalization bound to estimate the generalization performance of DNNs without model training. We then exploit this theoretically derived generalization bound to develop a novel training-free data valuation method named data valuation at initialization (DAVINZ) on DNNs, which consistently achieves remarkable effectiveness and efficiency in practice. Moreover, our training-free DAVINZ, surprisingly, can even theoretically and empirically enjoy the desirable properties that training-based data valuation methods usually attain, making it more trustworthy in practice. 
     </details>  
 
-## Neural Architecture Search
+## Model-Centric AI
 - <span style="color: royalblue">Robustifying and Boosting Training-Free Neural Architecture Search.</span>  
     Zhenfeng He, **Yao Shu**#, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 12th International Conference on Learning Representations* (**ICLR**), 2024  
@@ -149,6 +148,13 @@ toc_sticky: true
     <details>
         <summary>Abstract</summary>
         The deployment of deep neural networks in real-world applications is mostly restricted by their high inference costs. Extensive efforts have been made to improve the accuracy with expert-designed or algorithm-searched architectures. However, the incremental improvement is typically achieved with increasingly more expensive models that only a small portion of input instances really need. Inference with a static architecture that processes all input instances via the same transformation would thus incur unnecessary computational costs. Therefore, customizing the model capacity in an instance-aware manner is much needed for higher inference efficiency. In this paper, we propose Dynamic Routing Networks (DRNets), which support efficient instance-aware inference by routing the input instance to only necessary transformation branches selected from a candidate set of branches for each connection between transformation nodes. The branch selection is dynamically determined via the corresponding branch importance weights, which are first generated from lightweight hypernetworks (RouterNets) and then recalibrated with Gumbel-Softmax before the selection. Extensive experiments show that DRNets can reduce a substantial amount of parameter size and FLOPs during inference with prediction performance comparable to state-of-the-art architectures.
+    </details>  
+- <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
+    Min Zhang, **Yao Shu**, Kun He  
+    [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
+    <details>
+        <summary>Abstract</summary>
+        Finite-sum optimization plays an important role in the area of machine learning, and hence has triggered a surge of interest in recent years. To address this optimization problem, various randomized incremental gradient methods have been proposed with guaranteed upper and lower complexity bounds for their convergence. Nonetheless, these lower bounds rely on certain conditions: deterministic optimization algorithm, or fixed probability distribution for the selection of component functions. Meanwhile, some lower bounds even do not match the upper bounds of the best known methods in certain cases. To break these limitations, we derive tight lower complexity bounds of randomized incremental gradient methods, including SAG, SAGA, SVRG, and SARAH, for two typical cases of finite-sum optimization. Specifically, our results tightly match the upper complexity of Katyusha or VRADA when each component function is strongly convex and smooth, and tightly match the upper complexity of SDCA without duality and of KatyushaX when the finite-sum function is strongly convex and the component functions are average smooth.
     </details>  
 - <span style="color: royalblue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  

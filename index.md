@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "WELCOME TO YAO'S HOMEPAGE"
+title: "Shu Yao's Academic Homepage"
+classes: wide
 author_profile: true
 toc: true
 toc_sticky: true
@@ -37,6 +38,8 @@ Currently, my research interests include but are not restricted to the following
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
+- 2024.06: Our paper on "Heterogeneous Federated Zeroth-Order Optimization" is accepted to Differentiable Almost Everything workshop @ ICML 2024!
+- 2024.05: Our paper on "Prompt Optimization" is accepted to ICML 2024!
 - 2024.01: Our paper on "Training-free NAS" is accepted to ICLR 2024!
 - 2023.09: Our two papers are accepted to NeurIPS 2023!
 - 2023.05: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
@@ -58,15 +61,14 @@ Currently, my research interests include but are not restricted to the following
 ## Professional Services
 - Program Committee (PC) member/reviewer of
   - ICML:     2022,2023,2024
-  - NeurIPS:  2022,2023
+  - NeurIPS:  2022,2023,2024
   - ICLR:     2023,2024
-  - AAAI:     2024
+  - AAAI:     2024,2025
   - IJCAI:    2024
   - TPAMI:    2023
   - AAMAS:    2023,2024
   - UAI:      2023,2024
   - AISTATS:  2023,2024
-  - RLC:      2024
   - TIT
 
 ## Teaching Activities
