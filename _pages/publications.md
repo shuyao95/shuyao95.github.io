@@ -22,7 +22,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Federated Zeroth-Order Optimization using Trajectory-Informed Surrogate Gradients.</span>  
     **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
-    In *Differentiable Almost Everything Workshop @ **ICML** 2024*  
+    In *Differentiable Almost Everything Workshop* @ **ICML** 2024  
     [arXiv:2308.04077](https://arxiv.org/abs/2308.04077), [code](https://github.com/shuyao95/FZooS)  
     <details>
         <summary>Abstract</summary>
@@ -82,7 +82,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
     Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai#, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low  
-    In *Instruction Workshop @ **NeurIPS** 2023*  
+    In *Instruction Workshop* @ **NeurIPS** 2023  
     In *The 41st International Conference on Machine Learning* (**ICML**), 2024  
     Acceptance rate: 27.5% [[pdf](https://openreview.net/pdf?id=RLENZ8pNnn)]  
     <details>
