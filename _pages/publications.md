@@ -166,6 +166,9 @@ toc_sticky: true
     </details>  
 
 ## Others
+- <span style="color: royalblue">Data valuation in federated learning.</span>  
+    Zhaoxuan Wu, Xinyi Xu, Rachael Hwee Ling Sim, **Yao Shu**, Xiaoqiang Lin, Lucas Agussurja, Zhongxiang Dai, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang and Kian Hsiang Low  
+    Chapter 15 of [*Federated Learning: Theory and Practice*](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247), pages 281-296, Academic Press, 2024  
 - <span style="color: royalblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
     <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
