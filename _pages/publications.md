@@ -14,8 +14,8 @@ toc_sticky: true
 ## Learning for Optimization
 ### Local Optimization
 - <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
-    **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu
-    <span style="color: Red">Key Words</span>: First-Order Optimization, Parallelization    
+    **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu  
+    <span style="color: Red">Key Words: First-Order Optimization, Parallelization</span>    
     [arXiv:2402.11427](https://arxiv.org/abs/2402.11427), 2024  
     <details>
         <summary>Abstract</summary>
@@ -23,7 +23,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Heterogeneous Federated Zeroth-Order Optimization using Gradient Surrogates.</span>  
     **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Zeroth-Order Optimization, Federated Optimization, Heterogeneity  
+    <span style="color: Red">Key Words: Zeroth-Order Optimization, Federated Optimization, Heterogeneity</span>  
     In *Differentiable Almost Everything Workshop* @ **ICML** 2024  
     [arXiv:2308.04077](https://arxiv.org/abs/2308.04077) [[code](https://github.com/shuyao95/FZooS)]  
     <details>
@@ -32,7 +32,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Zeroth-Order Optimization with Trajectory-Informed Derivative Estimation.</span>  
     **Yao Shu**\*, Zhongxiang Dai\*, Weicong Sng, Arun Verma, Patrick Jaillet and Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Zeroth-Order Optimization, Derived Gaussian Process  
+    <span style="color: Red">Key Words: Zeroth-Order Optimization, Derived Gaussian Process</span>  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
     Acceptance rate: 31.8% [[pdf](https://openreview.net/pdf?id=n1bLgxHW6jW), [code](https://github.com/shuyao95/ZoRD)]  
     <details>
@@ -43,7 +43,7 @@ toc_sticky: true
 ### Global Optimization
 - <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
     Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
-    <span style="color: Red">Key Words</span>: Bayesian Optimization  
+    <span style="color: Red">Key Words: Bayesian Optimization</span>  
     In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
     Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=Y44NurSDjq), [code](https://github.com/daizhongxiang/Quantum_Bayesian_Optimization)]  
     <details>
@@ -52,7 +52,7 @@ toc_sticky: true
     </details> 
 - <span style="color: royalblue">Exploiting Correlated Auxiliary Feedback in Parameterized Bandits.</span>  
     Arun Verma, Zhongxiang Dai, **Yao Shu** and Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Parameterized Bandit  
+    <span style="color: Red">Key Words: Parameterized Bandit</span>  
     In *The 37th Conference on Neural Information Processing Systems* (**NeurIPS**), 2023  
     Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=vM5VnNQ4n7)]  
     <details>
@@ -61,7 +61,7 @@ toc_sticky: true
     </details> 
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
     Zhongxiang Dai, **Yao Shu**#, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet  
-    <span style="color: Red">Key Words</span>: Neural Bandit, Neural Tangent Kernel  
+    <span style="color: Red">Key Words: Neural Bandit, Neural Tangent Kernel</span>  
     In *The 11th International Conference on Learning Representations* (**ICLR**), 2023  
     Acceptance rate: 31.8% [[pdf](https://openreview.net/pdf?id=38m4h8HcNRL), [code](https://github.com/daizhongxiang/Federated-Neural-Bandits)]  
     <details>
@@ -70,7 +70,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Sample-Then-Optimize Batch Neural Thompson Sampling.</span>  
     Zhongxiang Dai, **Yao Shu**#, Bryan Kian Hsiang Low, Patrick Jaillet  
-    <span style="color: Red">Key Words</span>: Bayesian Optimization, Neural Tangent Kernel  
+    <span style="color: Red">Key Words: Bayesian Optimization, Neural Tangent Kernel</span>  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6% [[pdf](https://arxiv.org/pdf/2210.06850.pdf), [code](https://github.com/daizhongxiang/sto-bnts)]  
     <details>
@@ -82,7 +82,7 @@ toc_sticky: true
 ### Data-Centric AI
 - <span style="color: royalblue">Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.</span>  
     Zhaoxuan Wu, Xiaoqiang Lin, Zhongxiang Dai, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Prompt Optimization, Neural Bandit  
+    <span style="color: Red">Key Words: Prompt Optimization, Neural Bandit</span>  
     In *In-Context Learning Workshop* @ **ICML** 2024  
     [arXiv:2405.16122](https://arxiv.org/abs/2405.16122), 2024
     <details>
@@ -91,7 +91,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
     Wenyang Hu\*, **Yao Shu**\*, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Prompt Optimization, Zeroth-Order Optimization, Neural Tangent Kernel  
+    <span style="color: Red">Key Words: Prompt Optimization, Zeroth-Order Optimization, Neural Tangent Kernel</span>  
     In *In-Context Learning Workshop* @ **ICML** 2024  
     [arXiv:2403.02993](https://arxiv.org/abs/2403.02993), 2024
     <details>
@@ -100,7 +100,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
     Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai#, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Prompt Optimization, Neural Bandit  
+    <span style="color: Red">Key Words: Prompt Optimization, Neural Bandit</span>  
     In *Instruction Workshop* @ **NeurIPS** 2023  
     In *The 41st International Conference on Machine Learning* (**ICML**), 2024  
     Acceptance rate: 27.5% [[pdf](https://openreview.net/pdf?id=RLENZ8pNnn)]  
@@ -110,7 +110,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
     Zhaoxuan Wu, **Yao Shu**, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Data Valuation, Generalization Bound, Neural Tangent Kernel  
+    <span style="color: Red">Key Words: Data Valuation, Generalization Bound, Neural Tangent Kernel</span>  
     In *The 39th International Conference on Machine Learning* (**ICML**), 2022  
     Acceptance rate: 21.9% [[pdf](https://proceedings.mlr.press/v162/wu22j/wu22j.pdf), [code](https://github.com/ZhaoxuanWu/DAVINZ-DataValuation)] 
     <details>
@@ -121,7 +121,7 @@ toc_sticky: true
 ### Model-Centric AI
 - <span style="color: royalblue">Robustifying and Boosting Training-Free Neural Architecture Search.</span>  
     Zhenfeng He, **Yao Shu**#, Zhongxiang Dai, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Neural Architecture Search, Training-Free  
+    <span style="color: Red">Key Words: Neural Architecture Search, Training-Free</span>  
     In *The 12th International Conference on Learning Representations* (**ICLR**), 2024  
     Acceptance rate: 31% [[pdf](https://openreview.net/pdf?id=qPloNoDJZn), [code](https://github.com/hzf1174/RoBoT)]  
     <details>
@@ -130,7 +130,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search.</span>  
     **Yao Shu**, Zhongxiang Dai, Zhaoxuan Wu, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Neural Architecture Search, Training-Free, Generalization Bound  
+    <span style="color: Red">Key Words: Neural Architecture Search, Training-Free, Generalization Bound</span>  
     In *The 36th Conference on Neural Information Processing Systems* (**NeurIPS**), 2022  
     Acceptance rate: 25.6% [[pdf](https://arxiv.org/pdf/2201.09785.pdf), [code](https://github.com/shuyao95/HNAS)]  
     <details>
@@ -139,7 +139,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Neural Ensemble Search via Bayesian Sampling.</span>  
     **Yao Shu**, Yizhou Chen, Zhongxiang Dai, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Neural Ensemble Search, Bayesian  
+    <span style="color: Red">Key Words: Neural Ensemble Search, Bayesian Posterior</span>  
     In *The 38th Conference on Uncertainty in Artificial Intelligence* (**UAI**), 2022  
     Acceptance rate: 32.3% [[pdf](https://openreview.net/pdf?id=Bh4lBPUjqg9)]  
     <details>
@@ -148,7 +148,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">NASI: Label- and Data-agnostic Neural Architecture Search at Initialization.</span>  
     **Yao Shu**, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low  
-    <span style="color: Red">Key Words</span>: Neural Architecture Search, Training-Free  
+    <span style="color: Red">Key Words: Neural Architecture Search, Training-Free</span>  
     In *The 10th International Conference on Learning Representations* (**ICLR**), 2022  
     Acceptance rate: 32.3% [[pdf](https://openreview.net/pdf?id=v-v1cpNNK_v)]  
     <details>
@@ -157,7 +157,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Understanding Architectures Learnt by Cell-based Neural Architecture Search.</span>  
     **Yao Shu**, Wei Wang, Shaofeng Cai  
-    <span style="color: Red">Key Words</span>: Neural Architecture Search, Optimization, Generalization  
+    <span style="color: Red">Key Words: Neural Architecture Search, Optimization, Generalization</span>  
     In *The 8th International Conference on Learning Representations* (**ICLR**), 2020  
     Acceptance rate: 26.5% [[pdf](https://openreview.net/pdf?id=BJxH22EKPS), [code](https://github.com/shuyao95/Understanding-NAS.git)]  
     <details>
@@ -168,7 +168,7 @@ toc_sticky: true
 ## Others
 - <span style="color: royalblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
-    <span style="color: Red">Key Words</span>: Architecture Design, Mixture of Branch  
+    <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
     In *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021  
     <details>
         <summary>Abstract</summary>
@@ -176,7 +176,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**, Kun He  
-    <span style="color: Red">Key Words</span>: First-Order Optimization, Lower Bound  
+    <span style="color: Red">Key Words: First-Order Optimization, Lower Bound</span>  
     [arXiv:2010.08766](https://arxiv.org/abs/2010.08766), 2020
     <details>
         <summary>Abstract</summary>
@@ -184,7 +184,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Effective and Efficient Dropout for Deep Convolutional Neural Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang, Meihui Zhang, Gang Chen, Beng Chin Ooi  
-    <span style="color: Red">Key Words</span>: Dropout, Regularization, Generalization  
+    <span style="color: Red">Key Words: Dropout, Regularization, Generalization</span>  
     [arXiv:1904.03392](https://arxiv.org/abs/1904.03392), 2019  
     <details>
         <summary>Abstract</summary>
@@ -192,7 +192,7 @@ toc_sticky: true
     </details>  
 - <span style="color: royalblue">Efficient Memory Management for GPU-based Deep Learning Systems.</span>  
     Junzhe Zhang, Sai Ho Yeung, **Yao Shu**, Bingsheng He, Wei Wang  
-    <span style="color: Red">Key Words</span>: Memory-Efficient Training  
+    <span style="color: Red">Key Words: Memory-Efficient Training</span>  
     [arXiv:1903.06631](https://arxiv.org/abs/1903.06631), 2019  
     <details>
         <summary>Abstract</summary>
