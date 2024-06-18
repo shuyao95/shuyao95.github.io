@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Shu Yao's Academic Homepage"
-classes: wide
 author_profile: true
 toc: true
 toc_sticky: true

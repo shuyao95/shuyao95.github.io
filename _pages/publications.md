@@ -1,7 +1,6 @@
 ---
 title:  "PUBLICATIONS"
 layout: single
-classes: wide
 permalink: /publications/
 author_profile: true
 comments: false
@@ -73,7 +72,7 @@ toc_sticky: true
     </details>  
 
 ## Optimization for Learning 
-## Data-Centric AI
+### Data-Centric AI
 - <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
     Wenyang Hu, **Yao Shu**, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
     [arXiv:2403.02993](https://arxiv.org/abs/2403.02993), 2024
@@ -99,7 +98,7 @@ toc_sticky: true
         Recent years have witnessed a surge of interest in developing trustworthy methods to evaluate the value of data in many real-world applications, e.g., collaborative machine learning, data marketplaces, etc. Existing data valuation methods typically valuate data using the generalization performance of converged machine learning models after their long-term model training, making data valuation on large complex deep neural networks (DNNs) unaffordable. To this end, we theoretically derive a domain-aware generalization bound to estimate the generalization performance of DNNs without model training. We then exploit this theoretically derived generalization bound to develop a novel training-free data valuation method named data valuation at initialization (DAVINZ) on DNNs, which consistently achieves remarkable effectiveness and efficiency in practice. Moreover, our training-free DAVINZ, surprisingly, can even theoretically and empirically enjoy the desirable properties that training-based data valuation methods usually attain, making it more trustworthy in practice. 
     </details>  
 
-## Model-Centric AI
+### Model-Centric AI
 - <span style="color: royalblue">Robustifying and Boosting Training-Free Neural Architecture Search.</span>  
     Zhenfeng He, **Yao Shu**#, Zhongxiang Dai, Bryan Kian Hsiang Low  
     In *The 12th International Conference on Learning Representations* (**ICLR**), 2024  
