@@ -41,24 +41,6 @@ toc_sticky: true
     </details>  
 
 ### Neuralized Optimization
-- <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
-    Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
-    <span style="color: Red">Key Words: Bayesian Optimization</span>  
-    In <span style="color: MediumSeaGreen">*The 37th Conference on Neural Information Processing Systems* (**NeurIPS**)</span>, 2023  
-    Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=Y44NurSDjq), [code](https://github.com/daizhongxiang/Quantum_Bayesian_Optimization)]  
-    <details>
-        <summary>Abstract</summary>
-        Kernelized bandits, also known as Bayesian optimization (BO), has been a prevalent method for optimizing complicated black-box reward functions. Various BO algorithms have been theoretically shown to enjoy upper bounds on their cumulative regret which are sub-linear in the number $T$ of iterations, and a regret lower bound of $\Omega(\sqrt{T})$ has been derived which represents the unavoidable regrets for any classical BO algorithm. Recent works on quantum bandits have shown that with the aid of quantum computing, it is possible to achieve tighter regret upper bounds better than their corresponding classical lower bounds. However, these works are restricted to either multi-armed or linear bandits, and are hence not able to solve sophisticated real-world problems with non-linear reward functions. To this end, we introduce the quantum-Gaussian process-upper confidence bound (Q-GP-UCB) algorithm. To the best of our knowledge, our Q-GP-UCB is the first BO algorithm able to achieve a regret upper bound of $O(\text{ploy}\log T)$, which is significantly smaller than its regret lower bound of $\Omega(\sqrt{T})$ in the classical setting. Moreover, thanks to our novel analysis of the confidence ellipsoid, our Q-GP-UCB with the linear kernel achieves a smaller regret than the quantum linear UCB algorithm from the previous work. We use simulations to verify that the theoretical quantum speedup achieved by our Q-GP-UCB is also potentially relevant in practice.
-    </details> 
-- <span style="color: royalblue">Exploiting Correlated Auxiliary Feedback in Parameterized Bandits.</span>  
-    Arun Verma, Zhongxiang Dai, **Yao Shu** and Kian Hsiang Low  
-    <span style="color: Red">Key Words: Parameterized Bandit</span>  
-    In <span style="color: MediumSeaGreen">*The 37th Conference on Neural Information Processing Systems* (**NeurIPS**)</span>, 2023  
-    Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=vM5VnNQ4n7)]  
-    <details>
-        <summary>Abstract</summary>
-        We study a novel variant of the parameterized bandits problem in which the learner can observe auxiliary feedback that is correlated with the observed reward. The auxiliary feedback is readily available in many real-life applications, e.g., an online platform that wants to recommend the best-rated services to its users can observe the user's rating of service (rewards) and collect additional information like service delivery time (auxiliary feedback). We first develop a method that exploits auxiliary feedback to build a reward estimator with tight confidence bounds, leading to a smaller regret. We then characterize the regret reduction in terms of the correlation coefficient between reward and auxiliary feedback. Experimental results in different settings also verify the performance gain achieved by our proposed method.
-    </details> 
 - <span style="color: royalblue">Federated Neural Bandit.</span>  
     Zhongxiang Dai, **Yao Shu**#, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low and Patrick Jaillet  
     <span style="color: Red">Key Words: Neural Bandit, Neural Tangent Kernel</span>  
@@ -77,6 +59,26 @@ toc_sticky: true
         <summary>Abstract</summary>
         Bayesian optimization (BO), which uses a Gaussian process (GP) as a surrogate to model its objective function, is popular for black-box optimization. However, due to the limitations of GPs, BO underperforms in some problems such as those with categorical, high-dimensional or image inputs. To this end, recent works have used the highly expressive neural networks (NNs) as the surrogate model and derived theoretical guarantees using the theory of neural tangent kernel (NTK). However, these works suffer from the limitations of the requirement to invert an extremely large parameter matrix and the restriction to the sequential (rather than batch) setting. To overcome these limitations, we introduce two algorithms based on the Thompson sampling (TS) policy named Sample-Then-Optimize Batch Neural TS (STO-BNTS) and STO-BNTS-Linear. To choose an input query, we only need to train an NN (resp. a linear model) and then choose the query by maximizing the trained NN (resp. linear model), which is equivalently sampled from the GP posterior with the NTK as the kernel function. As a result, our algorithms sidestep the need to invert the large parameter matrix yet still preserve the validity of the TS policy. Next, we derive regret upper bounds for our algorithms with batch evaluations, and use insights from batch BO and NTK to show that they are asymptotically no-regret under certain conditions. Finally, we verify their empirical effectiveness using practical AutoML and reinforcement learning experiments. 
     </details>  
+
+### Others
+- <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
+    Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
+    <span style="color: Red">Key Words: Bayesian Optimization</span>  
+    In <span style="color: MediumSeaGreen">*The 37th Conference on Neural Information Processing Systems* (**NeurIPS**)</span>, 2023  
+    Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=Y44NurSDjq), [code](https://github.com/daizhongxiang/Quantum_Bayesian_Optimization)]  
+    <details>
+        <summary>Abstract</summary>
+        Kernelized bandits, also known as Bayesian optimization (BO), has been a prevalent method for optimizing complicated black-box reward functions. Various BO algorithms have been theoretically shown to enjoy upper bounds on their cumulative regret which are sub-linear in the number $T$ of iterations, and a regret lower bound of $\Omega(\sqrt{T})$ has been derived which represents the unavoidable regrets for any classical BO algorithm. Recent works on quantum bandits have shown that with the aid of quantum computing, it is possible to achieve tighter regret upper bounds better than their corresponding classical lower bounds. However, these works are restricted to either multi-armed or linear bandits, and are hence not able to solve sophisticated real-world problems with non-linear reward functions. To this end, we introduce the quantum-Gaussian process-upper confidence bound (Q-GP-UCB) algorithm. To the best of our knowledge, our Q-GP-UCB is the first BO algorithm able to achieve a regret upper bound of $O(\text{ploy}\log T)$, which is significantly smaller than its regret lower bound of $\Omega(\sqrt{T})$ in the classical setting. Moreover, thanks to our novel analysis of the confidence ellipsoid, our Q-GP-UCB with the linear kernel achieves a smaller regret than the quantum linear UCB algorithm from the previous work. We use simulations to verify that the theoretical quantum speedup achieved by our Q-GP-UCB is also potentially relevant in practice.
+    </details> 
+- <span style="color: royalblue">Exploiting Correlated Auxiliary Feedback in Parameterized Bandits.</span>  
+    Arun Verma, Zhongxiang Dai, **Yao Shu** and Kian Hsiang Low  
+    <span style="color: Red">Key Words: Parameterized Bandit</span>  
+    In <span style="color: MediumSeaGreen">*The 37th Conference on Neural Information Processing Systems* (**NeurIPS**)</span>, 2023  
+    Acceptance rate: 26.1% [[pdf](https://openreview.net/pdf?id=vM5VnNQ4n7)]  
+    <details>
+        <summary>Abstract</summary>
+        We study a novel variant of the parameterized bandits problem in which the learner can observe auxiliary feedback that is correlated with the observed reward. The auxiliary feedback is readily available in many real-life applications, e.g., an online platform that wants to recommend the best-rated services to its users can observe the user's rating of service (rewards) and collect additional information like service delivery time (auxiliary feedback). We first develop a method that exploits auxiliary feedback to build a reward estimator with tight confidence bounds, leading to a smaller regret. We then characterize the regret reduction in terms of the correlation coefficient between reward and auxiliary feedback. Experimental results in different settings also verify the performance gain achieved by our proposed method.
+    </details> 
 
 ## Optimization for Learning 
 ### Data-Centric AI
@@ -168,7 +170,7 @@ toc_sticky: true
         Neural architecture search (NAS) searches architectures automatically for given tasks, e.g., image classification and language modeling. Improving the search efficiency and effectiveness have attracted increasing attention in recent years. However, few efforts have been devoted to understanding the generated architectures. In this paper, we first reveal that existing NAS algorithms (e.g., DARTS, ENAS) tend to favor architectures with wide and shallow cell structures. These favorable architectures consistently achieve fast convergence and are consequently selected by NAS algorithms. Our empirical and theoretical study further confirms that their fast convergence derives from their smooth loss landscape and accurate gradient information. Nonetheless, these architectures may not necessarily lead to better generalization performance compared with other candidate architectures in the same search space, and therefore further improvement is possible by revising existing NAS algorithms.
     </details>  
 
-## Others
+## Other Topics
 - <span style="color: royalblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
     <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
