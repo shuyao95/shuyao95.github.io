@@ -12,7 +12,7 @@ toc_sticky: true
 \# denotes corresponding author, * denotes equal contribution. 
 
 ## Learning for Optimization
-### Local Optimization
+### Kernelized Optimization
 - <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
     **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu  
     <span style="color: Red">Key Words: First-Order Optimization, Parallelization</span>    
@@ -40,7 +40,7 @@ toc_sticky: true
         Zeroth-order (ZO) optimization, in which the derivative is unavailable, has recently succeeded in many important machine learning applications. Existing algorithms rely on finite difference (FD) methods for derivative estimation and gradient descent (GD)-based approaches for optimization. However, these algorithms suffer from query inefficiency because additional function queries are required for derivative estimation in their every GD update, which typically hinders their deployment in applications where every function query is expensive. To this end, we propose a trajectory-informed derivative estimation method which only uses the optimization trajectory (i.e., the history of function queries during optimization) and hence eliminates the need for additional function queries to estimate a derivative. Moreover, based on our derivative estimation, we propose the technique of dynamic virtual updates, which allows us to reliably perform multiple steps of GD updates without reapplying derivative estimation. Based on these two contributions, we introduce the zeroth-order optimization with trajectory-informed derivative estimation (ZoRD) algorithm for query-efficient ZO optimization. We theoretically demonstrate that our trajectory-informed derivative estimation and our ZoRD algorithm improve over existing approaches, which is then supported by our real-world experiments such as black-box adversarial attack, non-differentiable metric optimization and derivative-free reinforcement learning.
     </details>  
 
-### Global Optimization
+### Neuralized Optimization
 - <span style="color: royalblue">Quantum Bayesian Optimization.</span>  
     Zhongxiang Dai\*, Gregory Kang Ruey Lau\*, Arun Verma, **Yao Shu**, Kian Hsiang Low and Patrick Jaillet  
     <span style="color: Red">Key Words: Bayesian Optimization</span>  
@@ -108,6 +108,9 @@ toc_sticky: true
         <summary>Abstract</summary>
         Large language models (LLMs) have shown remarkable instruction-following capabilities and achieved impressive performances in various applications. However, the performances of LLMs depend heavily on the instructions given to them, which are typically manually tuned with substantial human efforts. Recent work has used the query-efficient Bayesian optimization (BO) algorithm to automatically optimize the instructions given to black-box LLMs. However, BO usually falls short when optimizing highly sophisticated (e.g., high-dimensional) objective functions, such as the functions mapping an instruction to the performance of an LLM. This is mainly due to the limited expressive power of the Gaussian process (GP) model which is used by BO as a surrogate to model the objective function. Meanwhile, it has been repeatedly shown that neural networks (NNs), especially pre-trained transformers, possess strong expressive power and can model highly complex functions. So, we adopt a neural bandit algorithm which replaces the GP in BO by an NN surrogate to optimize instructions for black-box LLMs. More importantly, the neural bandit algorithm allows us to naturally couple the NN surrogate with the hidden representation learned by a pre-trained transformer (i.e., an open-source LLM), which significantly boosts its performance. These motivate us to propose our INSTruction optimization usIng Neural bandits Coupled with Transformers (INSTINCT) algorithm. We perform instruction optimization for ChatGPT and use extensive experiments to show that our INSTINCT consistently outperforms the existing methods in different tasks, such as in various instruction induction tasks and the task of improving the zero-shot chain-of-thought instruction.
     </details>  
+- <span style="color: royalblue">Data valuation in federated learning.</span>  
+    Zhaoxuan Wu, Xinyi Xu, Rachael Hwee Ling Sim, **Yao Shu**, Xiaoqiang Lin, Lucas Agussurja, Zhongxiang Dai, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang and Kian Hsiang Low  
+    Chapter 15 of [*Federated Learning: Theory and Practice*](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247), pages 281-296, Academic Press, 2024  
 - <span style="color: royalblue">DAVINZ: Data Valuation using Deep Neural Networks at Initialization.</span>  
     Zhaoxuan Wu, **Yao Shu**, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Data Valuation, Generalization Bound, Neural Tangent Kernel</span>  
@@ -166,9 +169,6 @@ toc_sticky: true
     </details>  
 
 ## Others
-- <span style="color: royalblue">Data valuation in federated learning.</span>  
-    Zhaoxuan Wu, Xinyi Xu, Rachael Hwee Ling Sim, **Yao Shu**, Xiaoqiang Lin, Lucas Agussurja, Zhongxiang Dai, See-Kiong Ng, Chuan-Sheng Foo, Patrick Jaillet, Trong Nghia Hoang and Kian Hsiang Low  
-    Chapter 15 of [*Federated Learning: Theory and Practice*](https://www.sciencedirect.com/science/article/abs/pii/B9780443190377000247), pages 281-296, Academic Press, 2024  
 - <span style="color: royalblue">Dynamic Routing Networks.</span>  
     Shaofeng Cai, **Yao Shu**, Wei Wang  
     <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
