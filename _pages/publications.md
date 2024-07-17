@@ -160,6 +160,14 @@ toc_sticky: true
         <summary>Abstract</summary>
         Recent years have witnessed a surging interest in Neural Architecture Search (NAS). Various algorithms have been proposed to improve the search efficiency and effectiveness of NAS, i.e., to reduce the search cost and improve the generalization performance of the selected architectures, respectively. However, the search efficiency of these algorithms is severely limited by the need for model training during the search process. To overcome this limitation, we propose a novel NAS algorithm called NAS at Initialization (NASI) that exploits the capability of a Neural Tangent Kernel in being able to characterize the performance of candidate architectures at initialization, hence allowing model training to be completely avoided to boost the search efficiency. Besides the improved search efficiency, NASI also achieves competitive search effectiveness on various datasets like CIFAR-10/100 and ImageNet. Further, NASI is shown to be label- and data-agnostic under mild conditions, which guarantees the transferability of architectures selected by our NASI over different datasets. 
     </details>  
+- <span style="color: royalblue">Dynamic Routing Networks.</span>  
+    Shaofeng Cai, **Yao Shu**, Wei Wang  
+    <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
+    In <span style="color: MediumSeaGreen">*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**)</span>, 2021  
+    <details>
+        <summary>Abstract</summary>
+        The deployment of deep neural networks in real-world applications is mostly restricted by their high inference costs. Extensive efforts have been made to improve the accuracy with expert-designed or algorithm-searched architectures. However, the incremental improvement is typically achieved with increasingly more expensive models that only a small portion of input instances really need. Inference with a static architecture that processes all input instances via the same transformation would thus incur unnecessary computational costs. Therefore, customizing the model capacity in an instance-aware manner is much needed for higher inference efficiency. In this paper, we propose Dynamic Routing Networks (DRNets), which support efficient instance-aware inference by routing the input instance to only necessary transformation branches selected from a candidate set of branches for each connection between transformation nodes. The branch selection is dynamically determined via the corresponding branch importance weights, which are first generated from lightweight hypernetworks (RouterNets) and then recalibrated with Gumbel-Softmax before the selection. Extensive experiments show that DRNets can reduce a substantial amount of parameter size and FLOPs during inference with prediction performance comparable to state-of-the-art architectures.
+    </details>  
 - <span style="color: royalblue">Understanding Architectures Learnt by Cell-based Neural Architecture Search.</span>  
     **Yao Shu**, Wei Wang, Shaofeng Cai  
     <span style="color: Red">Key Words: Neural Architecture Search, Optimization, Generalization</span>  
@@ -171,14 +179,6 @@ toc_sticky: true
     </details>  
 
 ## Other Topics
-- <span style="color: royalblue">Dynamic Routing Networks.</span>  
-    Shaofeng Cai, **Yao Shu**, Wei Wang  
-    <span style="color: Red">Key Words: Architecture Design, Mixture of Branch</span>  
-    In <span style="color: MediumSeaGreen">*Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**)</span>, 2021  
-    <details>
-        <summary>Abstract</summary>
-        The deployment of deep neural networks in real-world applications is mostly restricted by their high inference costs. Extensive efforts have been made to improve the accuracy with expert-designed or algorithm-searched architectures. However, the incremental improvement is typically achieved with increasingly more expensive models that only a small portion of input instances really need. Inference with a static architecture that processes all input instances via the same transformation would thus incur unnecessary computational costs. Therefore, customizing the model capacity in an instance-aware manner is much needed for higher inference efficiency. In this paper, we propose Dynamic Routing Networks (DRNets), which support efficient instance-aware inference by routing the input instance to only necessary transformation branches selected from a candidate set of branches for each connection between transformation nodes. The branch selection is dynamically determined via the corresponding branch importance weights, which are first generated from lightweight hypernetworks (RouterNets) and then recalibrated with Gumbel-Softmax before the selection. Extensive experiments show that DRNets can reduce a substantial amount of parameter size and FLOPs during inference with prediction performance comparable to state-of-the-art architectures.
-    </details>  
 - <span style="color: royalblue">Tight Lower Complexity Bounds for Strongly Convex Finite-Sum Optimization.</span>  
     Min Zhang, **Yao Shu**, Kun He  
     <span style="color: Red">Key Words: First-Order Optimization, Lower Bound</span>  
