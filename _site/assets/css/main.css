@@ -3430,19 +3430,19 @@ body {
 @media (min-width: 64em) {
   .wide .page {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 @media (min-width: 80em) {
   .wide .page {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 @media (min-width: 64em) {
   .wide .page__related {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 @media (min-width: 80em) {
   .wide .page__related {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 
 /* ==========================================================================
    ARCHIVE
@@ -3757,11 +3757,11 @@ body {
 @media (min-width: 64em) {
   .wide .archive {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 @media (min-width: 80em) {
   .wide .archive {
     /* padding-right: 0; } } */
-    padding-right: 200px; } }
+    padding-right: 300px; } }
 
 /* Place inside a single layout */
 .layout--single .feature__wrapper {
