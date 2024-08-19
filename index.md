@@ -3,7 +3,7 @@ layout: single
 title: "WELCOME TO SHU YAO's HOMEPAGE"
 author_profile: true
 toc: true
-toc_sticky: true
+# toc_sticky: true
 classes: wide
 ---
 
