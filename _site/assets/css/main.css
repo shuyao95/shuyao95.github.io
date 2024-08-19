@@ -2,7 +2,7 @@
   font-family: "HarmonyOS";
   src: url("/assets/font/HarmonyOS_Sans.ttf"); }
 @font-face {
-  font-family: "Verdana";
+  font-family: "Lato";
   src: url("/assets/font/Lato-Regular.ttf"); }
 /* system typefaces */
 /* sans serif typefaces */
@@ -66,7 +66,7 @@
 /* Mixins and functions */
 /* Magnific Popup CSS */
 .mfp-counter {
-  font-family: "Verdana", "HarmonyOS", Optima, Georgia, Times, serif; }
+  font-family: "Lato", "HarmonyOS", Optima, Georgia, Times, serif; }
 
 .mfp-bg {
   top: 0;
@@ -207,7 +207,7 @@ button::-moz-focus-inner {
   color: #fff;
   font-style: normal;
   font-size: 28px;
-  font-family: "Verdana", "HarmonyOS", Optima, Georgia, Times, serif; }
+  font-family: "Lato", "HarmonyOS", Optima, Georgia, Times, serif; }
   .mfp-close:hover, .mfp-close:focus {
     opacity: 1;
     filter: alpha(opacity=100); }
@@ -665,7 +665,7 @@ body {
   margin: 0;
   padding: 0;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   line-height: 1.5; }
   body.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -679,7 +679,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-weight: bold; }
 
 h1 {
@@ -852,7 +852,7 @@ figure {
 figcaption {
   margin-bottom: 0.5em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, Georgia, Times, serif;
+  font-family: "Lato", "HarmonyOS", Optima, Georgia, Times, serif;
   font-size: 0.85em; }
   figcaption a {
     -webkit-transition: all 0.2s ease-in-out;
@@ -965,7 +965,7 @@ button,
 select,
 textarea {
   box-sizing: border-box;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
 
 label {
   display: block;
@@ -1225,7 +1225,7 @@ table {
   display: block;
   margin-bottom: 1em;
   width: 100%;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em;
   border-collapse: collapse;
   overflow-x: auto; }
@@ -1275,7 +1275,7 @@ th {
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em;
   font-weight: bold;
   text-align: center;
@@ -1420,7 +1420,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1461,7 +1461,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1502,7 +1502,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1543,7 +1543,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1584,7 +1584,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1625,7 +1625,7 @@ th {
   /* override*/
   padding: 1em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em !important;
   text-indent: initial;
   /* override*/
@@ -1683,7 +1683,7 @@ th {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     .masthead__inner-wrap::after {
       clear: both;
       content: "";
@@ -1748,7 +1748,7 @@ th {
   max-width: 100%;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.3s;
@@ -1794,7 +1794,7 @@ th {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
   .pagination li {
     display: block;
     float: left;
@@ -1803,7 +1803,7 @@ th {
       display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
@@ -1834,7 +1834,7 @@ th {
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     font-size: 1em;
     font-weight: bold;
     text-align: center;
@@ -2100,7 +2100,7 @@ th {
 .nav__title {
   margin: 0;
   padding: 0.5rem 0.75rem;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 1em;
   font-weight: bold; }
 
@@ -2108,7 +2108,7 @@ th {
   display: block;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em;
   font-weight: bold;
   text-transform: uppercase;
@@ -2118,7 +2118,7 @@ th {
      Table of contents navigation
      ========================================================================== */
 .toc {
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   color: #7a8288;
   background-color: #fff;
   border: 1px solid #bfbfbf;
@@ -2211,7 +2211,7 @@ th {
     color: #000; }
 
 .page__footer-copyright {
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.6875em; }
 
 .page__footer-follow ul {
@@ -2222,7 +2222,7 @@ th {
   display: inline-block;
   padding-top: 5px;
   padding-bottom: 5px;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em;
   text-transform: uppercase; }
 .page__footer-follow li + li:before {
@@ -2632,7 +2632,7 @@ body:hover .visually-hidden button {
   position: fixed;
   z-index: 20;
   margin: 0;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   white-space: nowrap; }
 
 .skip-link li {
@@ -3073,7 +3073,7 @@ body {
     margin-top: -0.5em; }
 
 .page__lead {
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.25em; }
 
 .page__content {
@@ -3106,11 +3106,11 @@ body {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
   .page__content dt {
     margin-top: 1em;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     font-weight: bold; }
   .page__content dd {
     margin-left: 1em;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     font-size: 0.85em; }
   .page__content .small {
     font-size: 0.85em; }
@@ -3181,7 +3181,7 @@ body {
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-family: "Verdana", "HarmonyOS", Optima, Georgia, Times, serif;
+  font-family: "Lato", "HarmonyOS", Optima, Georgia, Times, serif;
   font-size: 0.6875em;
   background: #000;
   text-align: right;
@@ -3224,7 +3224,7 @@ body {
 .page__meta, .comment__date {
   margin-top: 2em;
   color: #000;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 0.85em; }
   .page__meta p, .comment__date p {
     margin: 0; }
@@ -3471,7 +3471,7 @@ body {
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis; }
@@ -3512,7 +3512,7 @@ body {
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-family: "Verdana", "HarmonyOS", Optima, Georgia, Times, serif;
+  font-family: "Lato", "HarmonyOS", Optima, Georgia, Times, serif;
   font-size: 0.625em;
   background: #000;
   text-align: right;
@@ -3796,10 +3796,10 @@ body {
   .sidebar h5,
   .sidebar h6 {
     margin-bottom: 0;
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
   .sidebar p,
   .sidebar li {
-    font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     font-size: 0.85em;
     line-height: 1.5; }
   .sidebar img {
@@ -3888,7 +3888,7 @@ body {
       margin-bottom: 10px; } }
 
 .sidebar .author__name {
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-size: 1em; }
 
 .author__bio {
@@ -3902,7 +3902,7 @@ body {
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: "Verdana", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Lato", "HarmonyOS", Optima, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   z-index: 20;
   cursor: pointer; }
   .author__urls-wrapper li:last-child a {
