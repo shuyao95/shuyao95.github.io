@@ -4011,6 +4011,33 @@ body {
 /*
    Wide Pages
    ========================================================================== */
+
+.wide .sidebar__right {
+  margin-bottom: 1em; }
+  @media (min-width: 64em) {
+    .sidebar__right {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 200px;
+      margin-right: -200px;
+      padding-left: 1em;
+      z-index: 10; }
+      .sidebar__right.sticky {
+        clear: both;
+        position: -webkit-sticky;
+        position: sticky;
+        top: 2em;
+        float: right; }
+        .sidebar__right.sticky::after {
+          clear: both;
+          content: "";
+          display: table; } }
+  @media (min-width: 80em) {
+    .sidebar__right {
+      width: 300px;
+      margin-right: -300px; } }
+
 /* .wide .sidebar__right {
   margin-bottom: 1em; }
   @media (min-width: 64em) {
