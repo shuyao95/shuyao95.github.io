@@ -3045,13 +3045,13 @@ body {
     float: right;
     width: calc(100% - 200px);
     /* padding-right: 200px; } } */
-    padding-right: 100px; } }
+    padding-right: 50px; } }
 /* @media (min-width: 80em) { */
 @media (min-width: 120em) {
   .page {
     width: calc(100% - 300px);
     /* padding-right: 300px; } } */
-    padding-right: 150px; } }
+    padding-right: 75px; } }
 .page .page__inner-wrap {
   float: left;
   margin-top: 1em;
