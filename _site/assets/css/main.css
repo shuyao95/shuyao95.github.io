@@ -3430,19 +3430,19 @@ body {
 @media (min-width: 64em) {
   .wide .page {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 @media (min-width: 80em) {
   .wide .page {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 @media (min-width: 64em) {
   .wide .page__related {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 @media (min-width: 80em) {
   .wide .page__related {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 
 /* ==========================================================================
    ARCHIVE
@@ -3757,11 +3757,11 @@ body {
 @media (min-width: 64em) {
   .wide .archive {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 @media (min-width: 80em) {
   .wide .archive {
     /* padding-right: 0; } } */
-    padding-right: 100px; } }
+    padding-right: 200px; } }
 
 /* Place inside a single layout */
 .layout--single .feature__wrapper {
@@ -4011,7 +4011,7 @@ body {
 /*
    Wide Pages
    ========================================================================== */
-.wide .sidebar__right {
+/* .wide .sidebar__right {
   margin-bottom: 1em; }
   @media (min-width: 64em) {
     .wide .sidebar__right {
@@ -4027,7 +4027,7 @@ body {
   @media (min-width: 80em) {
     .wide .sidebar__right {
       width: initial;
-      margin-right: initial; } }
+      margin-right: initial; } } */
 
 /* ==========================================================================
    PRINT STYLES
