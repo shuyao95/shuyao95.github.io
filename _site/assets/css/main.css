@@ -3039,13 +3039,15 @@ body {
 .search-content {
   flex: 1 0 auto; }
 
-@media (min-width: 64em) {
+/* @media (min-width: 64em) { */
+@media (min-width: 96em) {
   .page {
     float: right;
     width: calc(100% - 200px);
     /* padding-right: 200px; } } */
     padding-right: 100px; } }
-@media (min-width: 80em) {
+/* @media (min-width: 80em) { */
+@media (min-width: 120em) {
   .page {
     width: calc(100% - 300px);
     /* padding-right: 300px; } } */
