@@ -4,6 +4,7 @@ title: "WELCOME TO SHU YAO's HOMEPAGE"
 author_profile: true
 toc: true
 toc_sticky: true
+classes: wide
 ---
 
 <!-- > An investment in knowledge pays the best interest. - Benjamin Franklin -->
