@@ -61,11 +61,11 @@ Currently, my research interests include but are not restricted to the following
 - Program Committee (PC) member/reviewer of
   - ICML:     2022,2023,2024
   - NeurIPS:  2022,2023,2024
-  - ICLR:     2023,2024
+  - ICLR:     2023,2024,2025
   - AAAI:     2024,2025
   - IJCAI:    2024
   - TPAMI:    2023
-  - AAMAS:    2023,2024
+  - AAMAS:    2023,2024,2025
   - UAI:      2023,2024
   - AISTATS:  2023,2024
   - TIT
