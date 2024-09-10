@@ -86,7 +86,7 @@ toc_sticky: true
     </details> 
 
 ## Optimization for Learning 
-### Data-Centric Perspective
+### Data Perspective
 - <span style="color: royalblue">Data-Centric AI in the Age of Large Language Models.</span>  
     Xinyi Xu, Zhaoxuan Wu, Rui Qiao, Arun Verma, **Yao Shu**, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Data-Centric AI, Large Language Models</span>  
@@ -139,7 +139,7 @@ toc_sticky: true
         Recent years have witnessed a surge of interest in developing trustworthy methods to evaluate the value of data in many real-world applications, e.g., collaborative machine learning, data marketplaces, etc. Existing data valuation methods typically valuate data using the generalization performance of converged machine learning models after their long-term model training, making data valuation on large complex deep neural networks (DNNs) unaffordable. To this end, we theoretically derive a domain-aware generalization bound to estimate the generalization performance of DNNs without model training. We then exploit this theoretically derived generalization bound to develop a novel training-free data valuation method named data valuation at initialization (DAVINZ) on DNNs, which consistently achieves remarkable effectiveness and efficiency in practice. Moreover, our training-free DAVINZ, surprisingly, can even theoretically and empirically enjoy the desirable properties that training-based data valuation methods usually attain, making it more trustworthy in practice. 
     </details>  
 
-### Model-Centric Perspective
+### Model Perspective
 - <span style="color: royalblue">Flexora: Flexible Low Rank Adaptation for Large Language Models.</span>  
     Chenxing Wei\*, **Yao Shu**\*, Ying Tiffany He, Fei Richard Yu  
     <span style="color: Red">Key Words: Layer Selection, Parameter-Efficient Fine-Tuning, Large Language Models</span>  
@@ -205,6 +205,16 @@ toc_sticky: true
     <details>
         <summary>Abstract</summary>
         Neural architecture search (NAS) searches architectures automatically for given tasks, e.g., image classification and language modeling. Improving the search efficiency and effectiveness have attracted increasing attention in recent years. However, few efforts have been devoted to understanding the generated architectures. In this paper, we first reveal that existing NAS algorithms (e.g., DARTS, ENAS) tend to favor architectures with wide and shallow cell structures. These favorable architectures consistently achieve fast convergence and are consequently selected by NAS algorithms. Our empirical and theoretical study further confirms that their fast convergence derives from their smooth loss landscape and accurate gradient information. Nonetheless, these architectures may not necessarily lead to better generalization performance compared with other candidate architectures in the same search space, and therefore further improvement is possible by revising existing NAS algorithms.
+    </details>  
+
+### Training-Algo. Perspective
+- <span style="color: royalblue">Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models.</span>  
+    **Yao Shu\***, Wenyang Hu\*, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu   
+    <span style="color: Red">Key Words: Large Language Models, Federated Full-Parameter Tuning</span>  
+    [[code](https://github.com/allen4747/Ferret)]
+    <details>
+        <summary>Abstract</summary>
+        Large Language Models (LLMs) have become indispensable in numerous real-world applications. Unfortunately, fine-tuning these models at scale, especially in federated settings where data privacy and communication efficiency are critical, presents significant challenges. Existing methods often resort to parameter-efficient fine-tuning (PEFT) to mitigate communication overhead, but this typically comes at the cost of model accuracy. To address these limitations, we propose federated full-parameter tuning at scale for LLMs (Ferret), the first first-order method with shared randomness to enable scalable full-parameter tuning of LLMs across decentralized data sources while maintaining competitive model accuracy. Ferret accomplishes this through three aspects: (1) it employs widely applied first-order methods for efficient local updates; (2) it projects these updates into a low-dimensional space to considerably reduce communication overhead; and (3) it reconstructs local updates from this low-dimensional space with shared randomness to facilitate effective full-parameter global aggregation, ensuring fast convergence and competitive final performance. Our rigorous theoretical analyses and insights along with extensive experiments, show that Ferret significantly enhances the scalability of existing federated full-parameter tuning approaches by achieving high computational efficiency, reduced communication overhead, and fast convergence, all while maintaining competitive model accuracy. Our implementation is available at https://github.com/allen4747/Ferret.
     </details>  
 
 ## Other Topics
