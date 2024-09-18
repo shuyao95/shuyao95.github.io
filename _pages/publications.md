@@ -12,6 +12,8 @@ toc_sticky: true
 \# denotes corresponding author, * denotes equal contribution. 
 
 ## Learning for Optimization
+*To make optimization more efficient and effective!*
+
 ### Kernelized Optimization
 - <span style="color: royalblue">OptEx: Expediting First-Order Optimization with Approximately Parallelized Iterations.</span>  
     **Yao Shu**, Jiongfeng Fang, Ying Tiffany He, Fei Richard Yu  
@@ -85,7 +87,9 @@ toc_sticky: true
         We study a novel variant of the parameterized bandits problem in which the learner can observe auxiliary feedback that is correlated with the observed reward. The auxiliary feedback is readily available in many real-life applications, e.g., an online platform that wants to recommend the best-rated services to its users can observe the user's rating of service (rewards) and collect additional information like service delivery time (auxiliary feedback). We first develop a method that exploits auxiliary feedback to build a reward estimator with tight confidence bounds, leading to a smaller regret. We then characterize the regret reduction in terms of the correlation coefficient between reward and auxiliary feedback. Experimental results in different settings also verify the performance gain achieved by our proposed method.
     </details> 
 
-## Optimization for Learning 
+## Optimization for Learning  
+*To make learning more efficient, effective and easier to deploy!*
+
 ### Data Perspective
 - <span style="color: royalblue">Data-Centric AI in the Age of Large Language Models.</span>  
     Xinyi Xu, Zhaoxuan Wu, Rui Qiao, Arun Verma, **Yao Shu**, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, Bryan Kian Hsiang Low  
@@ -211,7 +215,7 @@ toc_sticky: true
 - <span style="color: royalblue">Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models.</span>  
     **Yao Shu\***, Wenyang Hu\*, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu   
     <span style="color: Red">Key Words: Large Language Models, Federated Full-Parameter Tuning</span>  
-    [[arXiv](https://arxiv.org/abs/2409.06277), [code](https://github.com/allen4747/Ferret)]
+    [[HuggingFace](https://huggingface.co/papers/2409.06277), [arXiv](https://arxiv.org/abs/2409.06277), [code](https://github.com/allen4747/Ferret)]
     <details>
         <summary>Abstract</summary>
         Large Language Models (LLMs) have become indispensable in numerous real-world applications. Unfortunately, fine-tuning these models at scale, especially in federated settings where data privacy and communication efficiency are critical, presents significant challenges. Existing methods often resort to parameter-efficient fine-tuning (PEFT) to mitigate communication overhead, but this typically comes at the cost of model accuracy. To address these limitations, we propose federated full-parameter tuning at scale for LLMs (Ferret), the first first-order method with shared randomness to enable scalable full-parameter tuning of LLMs across decentralized data sources while maintaining competitive model accuracy. Ferret accomplishes this through three aspects: (1) it employs widely applied first-order methods for efficient local updates; (2) it projects these updates into a low-dimensional space to considerably reduce communication overhead; and (3) it reconstructs local updates from this low-dimensional space with shared randomness to facilitate effective full-parameter global aggregation, ensuring fast convergence and competitive final performance. Our rigorous theoretical analyses and insights along with extensive experiments, show that Ferret significantly enhances the scalability of existing federated full-parameter tuning approaches by achieving high computational efficiency, reduced communication overhead, and fast convergence, all while maintaining competitive model accuracy. Our implementation is available at https://github.com/allen4747/Ferret.
