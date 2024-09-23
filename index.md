@@ -37,6 +37,7 @@ Currently, my research interests include but are not restricted to the following
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
+- 2024.05: Our position paper on "Data-Centric AI in LLMs" is accepted to EMNLP 2024 Findings!   
 - 2024.09: <span style="color: Red">Our [Ferret](https://arxiv.org/abs/2409.06277) paper is now available! Come and see how it significantly enhances the federated full-parameter tuning of Large Language Models!</span>
 - 2024.06: Our one paper on "Heterogeneous Federated Zeroth-Order Optimization" is accepted to Differentiable Almost Everything workshop @ ICML 2024 and two paper on "Prompt Optimization" are accepted to In-Context Learning workshop @ ICML 2024!
 - 2024.05: Our paper on "Prompt Optimization" is accepted to ICML 2024!
