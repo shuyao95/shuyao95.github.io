@@ -37,6 +37,7 @@ Currently, my research interests include but are not restricted to the following
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
+- 2024.10: Our [Ferret](https://arxiv.org/abs/2409.06277) paper is accepted to FL@FM-NeurIPS'24 as an <span style="color: Red">oral</span> paper! 
 - 2024.09: Our two papers on "Prompt Optimization" (<span style="color: Red">ZOPO as spotlight!</span>) and one paper on "Parallelized First-Order Optimization" are accepted to NeurIPS 2024!   
 - 2024.09: Our position paper on "Data-Centric AI in LLMs" is accepted to EMNLP 2024 Findings!   
 - 2024.09: Our [Ferret](https://arxiv.org/abs/2409.06277) paper is now available! Come and see how it significantly enhances the federated full-parameter tuning of Large Language Models!

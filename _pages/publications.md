@@ -27,7 +27,7 @@ toc_sticky: true
 - <span style="color: royalblue">Heterogeneous Federated Zeroth-Order Optimization using Gradient Surrogates.</span>  
     **Yao Shu**, Xiaoqiang Lin, Zhongxiang Dai, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Zeroth-Order Optimization, Federated Optimization, Heterogeneity</span>  
-    In <span style="color: MediumSeaGreen">*Differentiable Almost Everything Workshop* @ **ICML**</span> 2024  
+    In <span style="color: MediumSeaGreen">*Differentiable Almost Everything Workshop* @ **ICML**</span>, 2024  
     [[arXiv](https://arxiv.org/abs/2308.04077), [pdf](https://openreview.net/pdf?id=8E2YX0vf05), [code](https://github.com/shuyao95/FZooS)]  
     <details>
         <summary>Abstract</summary>
@@ -95,7 +95,7 @@ toc_sticky: true
 - <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
     Wenyang Hu\*, **Yao Shu**\*, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Prompt Optimization, Zeroth-Order Optimization, Neural Tangent Kernel, Large Language Models</span>  
-    In <span style="color: MediumSeaGreen">*In-Context Learning Workshop* @ **ICML**</span> 2024  
+    In <span style="color: MediumSeaGreen">*In-Context Learning Workshop* @ **ICML**</span>, 2024  
     In <span style="color: MediumSeaGreen">*The 38th Conference on Neural Information Processing Systems* (**NeurIPS Spotlight**)</span>, 2024   
     [[arXiv](https://arxiv.org/abs/2403.02993), [pdf](https://openreview.net/pdf?id=hS1jvV3Dk3)]
     <details>
@@ -105,7 +105,7 @@ toc_sticky: true
 - <span style="color: royalblue">Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars.</span>  
     Zhaoxuan Wu, Xiaoqiang Lin, Zhongxiang Dai, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Prompt Optimization, Neural Bandit, Large Language Models</span>  
-    In <span style="color: MediumSeaGreen">*In-Context Learning Workshop* @ **ICML**</span> 2024  
+    In <span style="color: MediumSeaGreen">*In-Context Learning Workshop* @ **ICML**</span>, 2024  
     In <span style="color: MediumSeaGreen">*The 38th Conference on Neural Information Processing Systems* (**NeurIPS**)</span>, 2024   
     [[arXiv](https://arxiv.org/abs/2405.16122), [pdf](https://openreview.net/pdf?id=6uRrwWhZlM), [code](https://github.com/ZhaoxuanWu/EASE-Prompt-Optimization)]
     <details>
@@ -124,7 +124,7 @@ toc_sticky: true
 - <span style="color: royalblue">Use Your INSTINCT: INSTruction optimization usIng Neural bandits Coupled with Transformers.</span>  
     Xiaoqiang Lin\*, Zhaoxuan Wu\*, Zhongxiang Dai#, Wenyang Hu, **Yao Shu**, See-Kiong Ng, Patrick Jaillet and Kian Hsiang Low  
     <span style="color: Red">Key Words: Prompt Optimization, Neural Bandit, Large Language Models</span>  
-    In <span style="color: MediumSeaGreen">*Instruction Workshop* @ **NeurIPS**</span> 2023  
+    In <span style="color: MediumSeaGreen">*Instruction Workshop* @ **NeurIPS**</span>, 2023  
     In <span style="color: MediumSeaGreen">*The 41st International Conference on Machine Learning* (**ICML**)</span>, 2024  
     <!-- Acceptance rate: 27.5%  -->
     [[arXiv](https://arxiv.org/abs/2310.02905), [pdf](https://openreview.net/pdf?id=RLENZ8pNnn), [code](https://github.com/xqlin98/INSTINCT)]  
@@ -219,6 +219,7 @@ toc_sticky: true
 - <span style="color: royalblue">Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models.</span>  
     **Yao Shu\***, Wenyang Hu\*, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu   
     <span style="color: Red">Key Words: Large Language Models, Federated Full-Parameter Tuning</span>  
+    In <span style="color: MediumSeaGreen">*Federated Foundation Models Workshop* @ **NeurIPS (Oral)**</span>, 2024  
     [[HuggingFace](https://huggingface.co/papers/2409.06277), [arXiv](https://arxiv.org/abs/2409.06277), [code](https://github.com/allen4747/Ferret)]
     <details>
         <summary>Abstract</summary>
