@@ -91,7 +91,7 @@ toc_sticky: true
 ## Optimization for Learning  
 *To make learning more efficient, effective and easier to deploy!*
 
-### Data Perspective
+### Data-Centric
 - <span style="color: royalblue">Localized Zeroth-Order Prompt Optimization.</span>  
     Wenyang Hu\*, **Yao Shu**\*, Zongmin Yu, Zhaoxuan Wu, Xiangqiang Lin, Zhongxiang Dai, See-Kiong Ng, Bryan Kian Hsiang Low  
     <span style="color: Red">Key Words: Prompt Optimization, Zeroth-Order Optimization, Neural Tangent Kernel, Large Language Models</span>  
@@ -147,7 +147,7 @@ toc_sticky: true
         Recent years have witnessed a surge of interest in developing trustworthy methods to evaluate the value of data in many real-world applications, e.g., collaborative machine learning, data marketplaces, etc. Existing data valuation methods typically valuate data using the generalization performance of converged machine learning models after their long-term model training, making data valuation on large complex deep neural networks (DNNs) unaffordable. To this end, we theoretically derive a domain-aware generalization bound to estimate the generalization performance of DNNs without model training. We then exploit this theoretically derived generalization bound to develop a novel training-free data valuation method named data valuation at initialization (DAVINZ) on DNNs, which consistently achieves remarkable effectiveness and efficiency in practice. Moreover, our training-free DAVINZ, surprisingly, can even theoretically and empirically enjoy the desirable properties that training-based data valuation methods usually attain, making it more trustworthy in practice. 
     </details>  
 
-### Model Perspective
+### Model-Centric
 - <span style="color: royalblue">Flexora: Flexible Low Rank Adaptation for Large Language Models.</span>  
     Chenxing Wei\*, **Yao Shu**\*, Ying Tiffany He, Fei Richard Yu  
     <span style="color: Red">Key Words: Layer Selection, Parameter-Efficient Fine-Tuning, Large Language Models</span>  
@@ -215,7 +215,7 @@ toc_sticky: true
         Neural architecture search (NAS) searches architectures automatically for given tasks, e.g., image classification and language modeling. Improving the search efficiency and effectiveness have attracted increasing attention in recent years. However, few efforts have been devoted to understanding the generated architectures. In this paper, we first reveal that existing NAS algorithms (e.g., DARTS, ENAS) tend to favor architectures with wide and shallow cell structures. These favorable architectures consistently achieve fast convergence and are consequently selected by NAS algorithms. Our empirical and theoretical study further confirms that their fast convergence derives from their smooth loss landscape and accurate gradient information. Nonetheless, these architectures may not necessarily lead to better generalization performance compared with other candidate architectures in the same search space, and therefore further improvement is possible by revising existing NAS algorithms.
     </details>  
 
-### Training Perspective
+### Training-Centric
 - <span style="color: royalblue">Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models.</span>  
     **Yao Shu\***, Wenyang Hu\*, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu   
     <span style="color: Red">Key Words: Large Language Models, Federated Full-Parameter Tuning</span>  
