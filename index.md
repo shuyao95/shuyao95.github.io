@@ -37,15 +37,15 @@ Currently, my research interests include but are not restricted to the following
 - 2021.09 - 2022.04, Research Assistant, National University of Singapore (NUS)
 
 ## What's New
-- 2024.10: Our [Ferret](https://arxiv.org/abs/2409.06277) paper is accepted to FL@FM-NeurIPS'24 as an <span style="color: Red">oral</span> paper! 
+- 2024.10: Our [Ferret](https://arxiv.org/abs/2409.06277) paper is accepted to FL@FM-NeurIPS'24 as an <span style="color: Red">oral</span> paper and our [Flexora](https://arxiv.org/pdf/2408.10774) is accepted to FITML-NeurIPS'24! 
 - 2024.09: Our two papers on "Prompt Optimization" (<span style="color: Red">ZOPO as spotlight!</span>) and one paper on "Parallelized First-Order Optimization" are accepted to NeurIPS 2024!   
 - 2024.09: Our position paper on "Data-Centric AI in LLMs" is accepted to EMNLP 2024 Findings!   
 - 2024.09: Our [Ferret](https://arxiv.org/abs/2409.06277) paper is now available! Come and see how it significantly enhances the federated full-parameter tuning of Large Language Models!
 - 2024.06: Our one paper on "Heterogeneous Federated Zeroth-Order Optimization" is accepted to Differentiable Almost Everything workshop @ ICML 2024 and two paper on "Prompt Optimization" are accepted to In-Context Learning workshop @ ICML 2024!
 - 2024.05: Our paper on "Prompt Optimization" is accepted to ICML 2024!
 - 2024.01: Our paper on "Training-free NAS" is accepted to ICLR 2024!
-- 2023.09: Our two papers are accepted to NeurIPS 2023!
-- 2023.05: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates!
+<!-- - 2023.09: Our two papers are accepted to NeurIPS 2023! -->
+<!-- - 2023.05: I am honored to be the recipient of IMDA Excellence in Computing Prize (Best Ph.D. Thesis in NUS School of Computing) 2023 & the valedictorian for the class of NUS School of Computing Ph.D. graduates! -->
 <!-- - 2023.01: Our papers on "Federated Neural Bandit" and "Zeroth-Order Optimization" are accepted to ICLR 2023! -->
 <!-- - Sep 2022: Our papers on "Training-free NAS" and "Neural Thompson Sampling" are accepted to NeurIPS 2022! -->
 <!-- - May 2022: Our paper on "Neural Ensemble Search" is accepted to UAI 2022! -->

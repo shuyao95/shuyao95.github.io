@@ -151,7 +151,7 @@ toc_sticky: true
 - <span style="color: royalblue">Flexora: Flexible Low Rank Adaptation for Large Language Models.</span>  
     Chenxing Wei\*, **Yao Shu**\*, Ying Tiffany He, Fei Richard Yu  
     <span style="color: Red">Key Words: Layer Selection, Parameter-Efficient Fine-Tuning, Large Language Models</span>  
-    In <span style="color: MediumSeaGreen">*Fine-Tuning in Modern Machine Learning Workshop* @ **NeurIPS**</span> 2024  
+    In <span style="color: MediumSeaGreen">*Fine-Tuning in Modern Machine Learning Workshop* @ **NeurIPS**</span>, 2024  
     [[arXiv](https://arxiv.org/pdf/2408.10774)]  
     <details>
         <summary>Abstract</summary>
